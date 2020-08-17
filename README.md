@@ -1,7 +1,7 @@
 ### Hello There 👋
 
-![Victor's github stats // Contributions](https://github-readme-stats.vercel.app/api?username=victornas91&count_private=false&show_icons=true&theme=great-gatsby)
-![Top Langs // Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victornas91&layout=compact&show_icons=true&theme=great-gatsby)
+![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victornas91&count_private=false&show_icons=true&theme=great-gatsby)
+![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=victornas91&layout=compact&show_icons=true&theme=great-gatsby)
 
 <!--
 **victornas91/victornas91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
