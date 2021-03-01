@@ -20,3 +20,6 @@
 - Protect the people and the organizations from malicious content online
 - Become a full fledged Hardware Hacker
 - Shows with drones! :D
+
+### ⚡ Fun fact
+- I'm a Moebius "survivor" and CNC / Maker enthusiast!
