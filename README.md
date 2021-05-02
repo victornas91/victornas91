@@ -7,19 +7,20 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/IT_Victor91/)](https://twitter.com/IT_Victor91/)
 
 ### 🌱 I’m currently learning
-- Game Development with C++, C#, Unity and SDL2
-- AI with Python, Computer Vision and Process Automation
-- Mobile Apps with Kotlin, Dart and Flutter
-- Pentesting with ParrotOS
-- Electronic Engineering: Circuits, Analogic / Digital Electronics
-- Embedded Systems and IoT  
+- Game Development with C++, C#, Python and the engines Godot, Pygame and Unity. Also AI for games.
+- Computer Graphics with SDL2 and Vulkan
+- Android with Kotlin, Dart and Flutter
+- Pentesting with Kali
+- Electrical Engineering: focusing on Embedded Systems and Signal / Image Processing. 
 
 ### 🔭 My goals in life are
 - Become a PHD in Computer Science and or Engineering
-- Build the most amazing games the world can enjoy from
-- Protect the people and the organizations from malicious content online
+- Build amazing games!
+- Build a rover that can help humanity explore other planets. 
 - Become a full fledged Hardware Hacker
+- Create and maintain my own mobile OS
 - Shows with drones! :D
+- Crypto farms!
 
 ### ⚡ Fun fact
-- I'm a Moebius "survivor" and CNC / Maker enthusiast!
+- I'm a Moebius "survivor" and Maker enthusiast!
