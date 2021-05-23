@@ -10,12 +10,25 @@
 - Game Development
 - Pentesting
 - Embedded Systems
-- Android Apps
-- And all of that using the languages C++, C#, Python and Kotlin
+- Web and Mobile Apps
+- Artificial Intelligence
+
+--- 
+
+### 🧰 Technologies used
+
+<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++ logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/debian/debian-plain.svg" alt="Debian logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt=".Net Core logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/gimp/gimp-plain.svg" alt="Gimp logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/matlab/matlab-plain.svg" alt="Matlab logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgre logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/redhat/redhat-plain.svg" alt="Redhat logo" width="50" height="50" /> 
+
+
+
+
+
+---
 
 ### 🔭 Short Term Goals
-- Finish the Unis i'm currently attending
-- Start a career in software development
+- Finish both Bachelors Degrees in Information Technology and Electrical Engineering i'm currently pursuing 
+- Start a career in software development integrating applied mathematics and artificial intelligence to games, mobile apps, infosec tools and embedded systems
+
 
 ### ⚡ Fun fact
-- I'm a Moebius "survivor" and Maker enthusiast!
+- I'm a Moebius "survivor" and 3D Printing / Maker / Avionics enthusiast!
