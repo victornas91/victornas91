@@ -26,7 +26,7 @@
 ---
 
 ### 🔭 Short Term Goals
-- Finish both Bachelors Degrees in Information Technology and Electrical Engineering i'm currently pursuing 
+- Finish both Bachelor Degree in Information Technology and Technologic Degree in Internet of Things i'm currently attending to. 
 - Start a career in software development integrating applied mathematics and artificial intelligence to games, mobile apps, infosec tools and embedded systems
 
 
