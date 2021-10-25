@@ -10,14 +10,14 @@
 - Game Development with Computer Graphics and Blockchain
 - Information Security: Pentesting, Malware Analysis and Hardware Hacking
 - Embedded Systems and IoT
-- Mobile Apps and architectures
+- Mobile Apps
 - Machine Learning and Fuzzy Logic
 
 --- 
 
 ### 🧰 Technologies used
 
-<img src="https://github.com/victornas91/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++ logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt=".Net Core logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin logo" width="50" height="50" /> 
+<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust logo" width="50" height="50" /> 
 
 
 
