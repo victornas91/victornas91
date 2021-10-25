@@ -7,11 +7,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/IT_Victor91/)](https://twitter.com/IT_Victor91/)
 
 ### 🌱 I’m currently learning
-- Game Development
-- Pentesting
-- Embedded Systems
-- Web and Mobile Apps
-- Artificial Intelligence
+- Game Development with Computer Graphics and Blockchain
+- Information Security: Pentesting, Malware Analysis and Hardware Hacking
+- Embedded Systems and IoT
+- Mobile Apps and architectures
+- Machine Learning and Fuzzy Logic
 
 --- 
 
