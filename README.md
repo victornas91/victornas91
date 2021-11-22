@@ -31,9 +31,14 @@
 
 ### 🔭 Goals for 2022-23
 - Finish my degree in Internet of Things.
-- Finish my degree in Information Technology.
+- Start a masters in Computer Science
+- Become an advanced programmer in C++, Python and Kotlin
+- Shows with drones!
 
 ---
 
 ### ⚡ Fun fact
-- I'm a Moebius "survivor" and 3D Printing / Maker Culture enthusiast!
+- I'm a Moebius Syndrome "survivor"
+- Have multiple goals that converge into a single product
+- Love to design things that fly
+- 
