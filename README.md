@@ -9,8 +9,9 @@
 ---
 
 ### 🌱 I’m currently learning
-- Game Development with applied Artificial Intelligence
+- Game Development with applied Artificial Intelligence, Blockchain and Computer Graphics
 - Information Security focused on Mobile Apps and IoT devices.
+- Embedded Systems and IoT
 
 ---
 
