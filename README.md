@@ -9,9 +9,9 @@
 ---
 
 ### 🌱 I’m currently learning
-- Game Development with applied Artificial Intelligence, Blockchain and Computer Graphics
+- Game Development with Applied Artificial Intelligence, Blockchain and Computer Graphics
 - Information Security focused on Mobile Apps and IoT devices.
-- Embedded Systems and IoT
+- Mechanical and Electronic Engineering for Avionics / Aerospace and Manufacture
 
 ---
 
@@ -32,8 +32,8 @@
 
 ### 🔭 Goals for 2022-23
 - Finish my degree in Internet of Things.
-- Start a masters in Computer Science
-- Become an advanced programmer in C++, Python and Kotlin
+- Start a masters in Computer Science and / or Aeronautical Engineering for Avionics
+- Become an advanced programmer in C#, C++, Python and Kotlin
 - Shows with drones!
 
 ---
@@ -42,4 +42,3 @@
 - I'm a Moebius Syndrome "survivor"
 - Have multiple goals that converge into a single product
 - Love to design things that fly
-- 
