@@ -9,15 +9,16 @@
 ---
 
 ### 🌱 I’m currently learning
-- Game Development with Applied Artificial Intelligence, Blockchain and Computer Graphics
-- Information Security focused on Mobile Apps and IoT devices.
-- Mechanical and Electronic Engineering for Avionics / Aerospace and Manufacture
+- Game Development with Unity and C#
+- Mobile App Development with Dart and Flutter
+- Embedded Systems and IoT with C
+- Deep Learning and Computer Vision with Python
 
 ---
 
 ### 🧰 Technologies used
 
-<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt="Dot Net Core logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgre SQL logo" width="50" height="50" />
+<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter logo" width="50" height="50" />
 
 
 
@@ -30,15 +31,13 @@
 
 ---
 
-### 🔭 Goals for 2022-23
-- Finish my degree in Internet of Things.
-- Start a masters in Computer Science and / or Aeronautical Engineering for Avionics
-- Become an advanced programmer in C#, C++, Python and Kotlin
-- Shows with drones!
+### 🔭 Goals for 2022-26
+- Finish my Bachelors degree in Mathematics and my Technician degree in Informatics.
+- Start a masters in Computer Science with a focus on advanced algorithms. 
+- Become an advanced programmer in C#, C, Python and Dart.
 
 ---
 
 ### ⚡ Fun fact
 - I'm a Moebius Syndrome "survivor"
 - Have multiple goals that converge into a single product
-- Love to design things that fly
