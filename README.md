@@ -12,7 +12,7 @@
 - Game Development with Unity and C#
 - Mobile App Development with Dart and Flutter
 - Embedded Systems and IoT with C
-- Deep Learning and Computer Vision with Python
+- Deep Learning, Computer Vision, Network Programming and Infosec with Python
 
 ---
 
@@ -32,8 +32,7 @@
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish my Bachelors degree in Mathematics and my Technician degree in Informatics.
-- Start a masters in Computer Science with a focus on advanced algorithms. 
+- Finish both my Bachelors degree in Mathematics and Electrical Engineering and my Technician degree in IT for Internet.
 - Become an advanced programmer in C#, C, Python and Dart.
 
 ---
