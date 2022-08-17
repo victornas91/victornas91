@@ -32,11 +32,11 @@
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish both my Bachelors degree in Mathematics and Electrical Engineering and my Technician degree in IT for Internet.
+- Finish both my Bachelors Degree in Information Technology and my Technician degree in IT for Internet.
 - Become an advanced programmer in C#, C, Python and Dart.
 
 ---
 
 ### ⚡ Fun fact
 - I'm a Moebius Syndrome "survivor"
-- Have multiple goals that converge into a single product
+- In love with machine design and automation
