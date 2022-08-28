@@ -9,13 +9,20 @@
 ---
 
 ### 🌱 I’m currently learning
-- Infosec
+- Infosec and Networks
+- Back End and Mobile
+- Embedded Systems
+- Machine Learning
+- Game Dev
 
 ---
 
 ### 🧰 Technologies used
 
-<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter logo" width="50" height="50" />
+<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/dart/dart-plain.svg" alt="Dart logo" width="50" height="50" /> <img 
+src="https://github.com/victornas91/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash logo" width="50" height="50" /> <img 
+src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img 
+src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgresql logo" width="50" height="50" />
 
 
 
