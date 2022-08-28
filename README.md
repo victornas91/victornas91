@@ -9,10 +9,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- Game Development with Unity and C#
-- Mobile App Development with Dart and Flutter
-- Embedded Systems and IoT with C
-- Deep Learning, Computer Vision, Network Programming and Infosec with Python
+- Infosec
 
 ---
 
@@ -33,7 +30,9 @@
 
 ### 🔭 Goals for 2022-26
 - Finish both my Bachelors Degree in Information Technology and my Technician degree in IT for Internet.
+- Start a Masters Degree and PhD in Computer Science and Aerospace Engineering
 - Become an advanced programmer in C#, C, Python and Dart.
+- Shows with drones!
 
 ---
 
