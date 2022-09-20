@@ -9,11 +9,11 @@
 ---
 
 ### 🌱 I’m currently learning
-- Infosec and Networks
-- Back End and Mobile
-- Embedded Systems
-- Machine Learning
-- Game Dev
+
+- Dotnet and Django for Back End
+- C for Systems Programming
+- Unity for Game Development
+- Kotlin and Dart for Mobile Development
 
 ---
 
@@ -36,8 +36,8 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish both my Bachelors Degree in Information Technology and my Technician degree in IT for Internet.
-- Begin a Masters Degree and then a PhD in Computer Science and Aerospace Engineering
+- Finish both my Technician degree in IT for Internet.
+- Begin a Masters Degree and then a PhD in Computer Science
 - Become an advanced programmer in C#, C, Python and Dart.
 - Shows with drones!
 
@@ -45,4 +45,4 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### ⚡ Fun fact
 - I'm a Moebius Syndrome "survivor"
-- In love with machine design and automation
+- In love with automation of all sorts of things: industry, home and boring office stuff! 
