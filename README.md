@@ -10,10 +10,9 @@
 
 ### 🌱 I’m currently learning
 
-- Dotnet and Django for Back End
-- C for Systems Programming
-- Unity for Game Development
-- Kotlin and Dart for Mobile Development
+- Unity, Opengl and Network Programming for Game Development
+- AWS and Linux for Infosec
+- Microcontrollers and Communication Protocols like LoraWan and MQTT for IoT
 
 ---
 
@@ -36,9 +35,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish both my Technician degree in IT for Internet.
+- Finish both my Technician degree in IT for Internet and my Bachelors Degree in Mathematics.
 - Begin a Masters Degree and then a PhD in Computer Science
-- Become an advanced programmer in C#, C, Python and Dart.
+- Become an advanced programmer in C#, C, C++, Python and Dart.
 - Shows with drones!
 
 ---
