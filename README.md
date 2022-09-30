@@ -1,22 +1,18 @@
-### Hello There :rocket:
+### Hello There :video_game:
+
+<img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
 
 **`Future Polymath (Aerospace/IoT/Infosec/Games/Machine Learning)`**
 
-Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware and how to help bring the human race closer to the stars.
+Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware and how to help bring the human race closer to the stars. Oh and also a lot of game development!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/IT_Victor91/)](https://twitter.com/IT_Victor91/)
 
 ---
-
-### :video_game: Games made so far
-
-Elf Tale Part 1
-
-<img alt="Elf" width="300px" src=img/elftale1.gif/>
 
 ---
 
@@ -30,7 +26,7 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Informatics for Internet, Mathematics and Innovation Management).
+- Finish all the degrees I'm currenty pursuing (Informatics for Internet, Mathematics).
 - Begin a Bachelors Degree in Aeronautical Engineering
 - Begin a Masters Degree and then a PhD in Computer Science
 - Become an advanced programmer in C#, C, Python and Dart.
