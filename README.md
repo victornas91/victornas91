@@ -4,7 +4,7 @@
 
 ---
 
-**`Future Polymath (Aerospace/IoT/Infosec/Games/Machine Learning)`**
+**`Future Polymath - Applying Mathematics to Aerospace(Embedded Systems), Infosec(Criptography), Games(Computer Graphics) and Machine Learning`**
 
 Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware and how to help bring the human race closer to the stars. Oh and also a lot of game development!
 
