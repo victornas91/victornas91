@@ -1,18 +1,20 @@
-### Hello There 👋
+### Hello There :rocket:
 
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victornas91&count_private=false&show_icons=true&theme=great-gatsby)
-![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=victornas91&layout=compact&show_icons=true&theme=great-gatsby)
+**`Future Polymath (Aerospace/IoT/Infosec/Games/Machine Learning)`**
+
+Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware and how to help bring the human race closer to the stars.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/IT_Victor91/)](https://twitter.com/IT_Victor91/)
-
+   
 ---
 
-### 🌱 I’m currently learning
+### 🌱 Games made so far
 
-- Unity, Opengl and Network Programming for Game Development
-- AWS and Linux for Infosec
-- Microcontrollers and Communication Protocols like LoraWan and MQTT for IoT
+Elf Tale Part 1 | Play here: https://victornas91.github.io/Elf-Tale/
+------------ | ------------- 
+![Elf Tale P1](/img/elftale1.gif) | Choose your own path (including classes!) in this text-based fantasy game. Made with C#, Unity and WebGL. 
 
 ---
 
@@ -22,22 +24,15 @@
 src="https://github.com/victornas91/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgresql logo" width="50" height="50" />
-
-
-
-
-
-
-
-
-
+src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgresql logo" width="50" height="50" />
 
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish both my Technician degree in IT for Internet and my Bachelors Degree in Mathematics.
+- Finish all the degrees I'm currenty pursuing (Informatics for Internet, Mathematics and Innovation Management).
+- Begin a Bachelors Degree in Aeronautical Engineering
 - Begin a Masters Degree and then a PhD in Computer Science
-- Become an advanced programmer in C#, C, C++, Python and Dart.
+- Become an advanced programmer in C#, C, Python and Dart.
 - Shows with drones!
 
 ---
