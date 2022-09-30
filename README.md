@@ -14,8 +14,6 @@ Almost 20 years working with Information Technology, mainly support and infrastr
 
 ---
 
----
-
 ### 🧰 Technologies used
 
 <img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/dart/dart-plain.svg" alt="Dart logo" width="50" height="50" /> <img 
