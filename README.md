@@ -6,7 +6,7 @@
 
 **`Future Polymath - Applying Mathematics to Aerospace(Embedded Systems), Infosec(Cryptography), Games(Computer Graphics) and Machine Learning`**
 
-Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware and how to help bring the human race closer to the stars. Oh and also a lot of game development!
+Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware and how to help bring the human race closer to the stars. Oh and also a lot of game / mobile app development!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
