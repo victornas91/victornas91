@@ -4,9 +4,11 @@
 
 ---
 
-**`Future Polymath - Applying Mathematics to Aerospace(Embedded Systems), Infosec(Cryptography), Games(Computer Graphics) and Machine Learning`**
+**`Future Polymath - (Trying to) mix Machine Learning with IoT, Games, Infosec and Web`**
 
-Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware and how to help bring the human race closer to the stars. Oh and also a lot of game / mobile app development!
+Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware / help bring the human race closer to the stars. Oh and also a lot of game / web app development!
+
+The games featured above are part of my project Mobius and Lion Systems where I try to build some new janky experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
@@ -25,10 +27,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### 🔭 Goals for 2022-26
 - Finish all the degrees I'm currenty pursuing (Informatics for Internet, Mathematics).
-- Begin a Bachelors Degree in Aeronautical Engineering
+- Begin a Bachelors Degree in Aeronautical Engineering (shows with drones!)
 - Begin a Masters Degree and then a PhD in Computer Science
 - Become an advanced programmer in C#, C, Python and Dart.
-- Shows with drones!
 
 ---
 
