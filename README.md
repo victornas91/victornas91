@@ -26,9 +26,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Informatics for Internet, Mathematics).
+- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Mathematics and Bachelors of Science in Information Technology).
 - Begin a Bachelors Degree in Aeronautical Engineering (shows with drones!)
-- Begin a Masters Degree and then a PhD in Computer Science
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models)
 - Become an advanced programmer in C#, C, Python and Dart.
 
 ---
