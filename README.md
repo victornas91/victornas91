@@ -6,7 +6,7 @@
 
 **`Future Polymath - (Trying to) mix Machine Learning with IoT, Games, Infosec and Web`**
 
-Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware / help bring the human race closer to the stars. Oh and also a lot of game / web app development!
+Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware / help bring the human race closer to the stars. Oh and also a lot of game / web / mobile / cloud-based app development!
 
 The games featured above are part of my project Mobius and Lion Systems where I try to build some new janky experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
@@ -26,15 +26,20 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Mathematics and Bachelors of Science in Information Technology).
-- Begin a Bachelors Degree in Aeronautical Engineering (shows with drones!)
+- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
+- Begin a Bachelors Degree in Aeronautical and / or Electrical Engineering (shows with drones!)
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models)
-- Become an advanced programmer in C#, C, Python and Dart.
+- Become an advanced programmer in C#, C, Python and Kotlin.
+- Learning how to build flying stuff that can carry me on to the next level! (whatever that may be!)
+- Also trying to conceive an autonomous rally car!
+- Did I say that i'm trying to build a smart submarine too? :D
+- Shows with drones!
+- Remaking retro consoles and games from scratch using modern approaches!
 
 ---
 
 ### ⚡ Fun fact
 - I'm a Moebius Syndrome "survivor"
-- In love with automation of all sorts of things: industry, home and boring office stuff! 
+- In love with automation of all sorts of things: industry, home and boring office stuff!  
 
 ---
