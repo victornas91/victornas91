@@ -4,7 +4,7 @@
 
 ---
 
-**`Future Polymath - (Trying to) mix Machine Learning with IoT, Games, Infosec and Web`**
+**`Future Polymath - (Trying to) mix Machine Learning with IoT, Games, Infosec and Aerospace Engineering`**
 
 Almost 20 years working with Information Technology, mainly support and infrastructure. Now aiming at learning how to automate the world with software and hardware / help bring the human race closer to the stars. Oh and also a lot of game / web / mobile / cloud-based app development!
 
