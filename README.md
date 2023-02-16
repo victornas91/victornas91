@@ -8,11 +8,11 @@
 
 Almost 20 years working with Information Technology, mainly support and infrastructure (including electric sytems, networks and optic fiber). Now aiming at helping improve people's and organizations's lives by automating repetitive tasks and building support systems with the help of AI, Information Security, Cloud Systems and Internet of Things. By focusing on these matters I've gradually learned how to use programming languages and frameworks that best suit these tasks. Some of them are: 
 
-C++, MQTT, Lorawan, MIPS and ARM for Systems Programming and Internet of Things
+C, C++, MQTT, Lorawan, MIPS and ARM for Systems Programming and Internet of Things
 
 Python, Keras, OpenCV and Tensorflow for RPA, Deep Learning and Computer Vision
 
-C# for Cloud Systems including Azure
+C# for Cloud Systems using the Azure ecosystem and Game Development using Unity and Blender.  
 
 PostgreSQL and MongoDB for database management and implementation
 
@@ -37,7 +37,7 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 - Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
 - Begin a Bachelors Degree in Aeronautical and / or Electrical Engineering (shows with drones!)
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models)
-- Become an advanced programmer in C#, C++, Python and Kotlin.
+- Become an advanced programmer in C#, C, C++, Python and Kotlin.
 - Learning how to build flying stuff that can carry me on to the next level! (whatever that may be!)
 - Also trying to conceive an autonomous rally car!
 - Did I say that i'm trying to build a smart submarine too? :D
