@@ -4,19 +4,13 @@
 
 ---
 
-**`Future Polymath - (Trying to) mix Machine Learning with IoT, Games, Infosec and Aerospace Engineering`**
+**`Future Polymath`**
 
-Almost 20 years working with Information Technology, mainly support and infrastructure (including electric sytems, networks and optic fiber). Now aiming at helping improve people's and organizations's lives by automating repetitive tasks and building support systems with the help of AI, Information Security, Cloud Systems and Internet of Things. By focusing on these matters I've gradually learned how to use programming languages and frameworks that best suit these tasks. Some of them are: 
+More than 10 years in computer support, administrative management and English tutoring as a second language. Making the transition to Backend, API, microservices and mobile apps development, as well as cloud and information security systems consultant. My side projects are aimed at creating digital games, 3D modeling, internet of things, machine learning and mechatronics / aerospace prototypes. I may not be an expert in these areas but I will definitely add something good to your project and / or team!
 
-C, C++, MQTT, Lorawan, MIPS and ARM for Systems Programming and Internet of Things
+Skills and Technologies: C#, C, Python, Kotlin, Dart, SQL, NosQL, Linux, Unix, Django, Flask, AWS, Azure, Arm, MIPS, AVR, PIC, LORA, MQT, I2C, UART.
 
-Python, Keras, OpenCV and Tensorflow for RPA, Deep Learning and Computer Vision
-
-C# for Cloud Systems using the Azure ecosystem and Game Development using Unity and Blender.  
-
-PostgreSQL and MongoDB for database management and implementation
-
-The games featured above are part of my project Mobius and Lion Systems where I try to build some new janky experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
+The games featured above are part of my project Mobius and Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
@@ -34,8 +28,7 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
-- Begin a Bachelors Degree in Aeronautical and / or Electrical Engineering (shows with drones!)
+- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelor of Science in Electrical Engineering and Technologic Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models)
 - Become an advanced programmer in C#, C, C++, Python and Kotlin.
 - Learning how to build flying stuff that can carry me on to the next level! (whatever that may be!)
