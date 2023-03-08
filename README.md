@@ -8,7 +8,7 @@
 
 More than 10 years in computer support, administrative management and English tutoring as a second language. Making the transition to Backend, API, microservices and mobile apps development, as well as cloud and information security systems consultant. My side projects are aimed at creating digital games, 3D modeling, internet of things, machine learning and mechatronics / aerospace prototypes. I may not be an expert in these areas but I will definitely add something good to your project and / or team!
 
-Skills and Technologies: C#, C, Python, Kotlin, Dart, SQL, NosQL, Linux, Unix, Django, Flask, AWS, Azure, Arm, MIPS, AVR, PIC, LORA, MQT, I2C, UART.
+Skills and Technologies: C#, C, Python, Kotlin, Dart, SQL, NosQL, Linux, Unix, Django, Flask, AWS, Azure, Arm, MIPS, AVR, PIC, LORA, MQTT, I2C, UART.
 
 The games featured above are part of my project Mobius and Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
