@@ -10,7 +10,7 @@ More than 10 years in computer support, administrative management and English tu
 
 Skills and Technologies: C#, C, Python, Kotlin, Dart, SQL, NosQL, Linux, Unix, Django, Flask, AWS, Azure, Arm, MIPS, AVR, PIC, LORA, MQTT, I2C, UART.
 
-The games featured above are part of my project Mobius and Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
+The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
