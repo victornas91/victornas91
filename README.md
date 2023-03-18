@@ -6,9 +6,9 @@
 
 **`Future Polymath`**
 
-More than 10 years in computer support, administrative management and English tutoring as a second language. Making the transition to Backend programming, mobile apps development and embedded systems / internet of things, as well as cloud systems consultant. My side projects are aimed at creating digital games, 3D modeling, machine learning and mechatronics / aerospace prototypes. I may not be an expert in these areas but I will definitely add something good to your project and / or team!
+More than 10 years in computer support, administrative management and English tutoring as a second language. Making the transition to data science and engineering, cloud support and systems automation. My side projects include things related to IoT, Game Development, Information Security and Low Level Systems programming.
 
-Skills and Technologies: C#, C, Python, Kotlin, Dart, SQL, NosQL, Linux, Unix, Django, Flask, AWS, Azure, Arm, MIPS, AVR, PIC, LORA, MQTT, I2C, UART.
+Skills and Technologies: Python, C++, C#, Kotlin, PostgreSQL, MySQL, Azure, AWS, Flask, Django, Net Core, Xamarin.
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
@@ -28,9 +28,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Informatics for Internet, Information Technology and Cloud Computing).
+- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Information Technology and Associate Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models)
-- Become an advanced programmer in C#, C, C++, Python and Kotlin.
+- Become an advanced programmer in C#, C++, Python and Kotlin.
 - Learning how to build flying stuff that can carry me on to the next level! (whatever that may be!)
 - Also trying to conceive an autonomous rally car!
 - Did I say that i'm trying to build a smart submarine too? :D
