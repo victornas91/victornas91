@@ -6,7 +6,7 @@
 
 **`Future Polymath`**
 
-More than 10 years in computer support, administrative management and English tutoring as a second language. Making the transition to data science and engineering, cloud support and systems automation. My side projects include things related to IoT, Game Development, Information Security and Low Level Systems programming.
+More than 10 years in computer support, administrative management and English tutoring as a second language. Making the transition to data science and engineering, cloud support and systems automation. My side projects include things related to Mobile Applicatios, Game Development, Information Security and Low Level Systems programming.
 
 Skills and Technologies: Python, C++, C#, Kotlin, PostgreSQL, MySQL, Azure, AWS, Flask, Django, Net Core, Xamarin.
 
