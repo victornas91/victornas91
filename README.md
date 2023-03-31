@@ -8,7 +8,7 @@
 
 More than 10 years in computer support, administrative management and English tutoring as a second language. Making the transition to data science and engineering, cloud support and systems automation. My side projects include things related to Mobile Applicatios, Game Development, Information Security and Low Level Systems programming.
 
-Skills and Technologies: Python, C, C#, Kotlin, PostgreSQL, MySQL, Azure, AWS, Flask, Django, Net Core, Xamarin, WebGL, ARM, MIPS, LORA, MQTT, AVR, PIC, I2C, UART.
+Skills and Technologies: Python, C, C++, C#, Kotlin, PostgreSQL, MySQL, Azure, AWS, Flask, Django, Net Core, Xamarin, WebGL, ARM, MIPS, LORA, MQTT, AVR, PIC, I2C, UART.
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
@@ -20,7 +20,8 @@ The games featured above are part of my project Mobius Lion where I try to build
 
 ### 🧰 Technologies used
 
-<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin logo" width="50" height="50" /> <img 
+<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img
+src="https://github.com/victornas91/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++ logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgresql logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt="Dotnetcore logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/arduino/arduino-plain.svg" alt="Arduino logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix logo" width="50" height="50" />
