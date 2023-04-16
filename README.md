@@ -29,8 +29,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Information Technology and Associate Degree in Cloud Computing).
+- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Mathematics and Associate Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models)
+- Also fortify my Math knowledge to apply in Cryptography, Hardware Design and Computer Graphics.
 - Become an advanced programmer in C#, C, C++, Python and Kotlin.
 - Learning how to build flying stuff that can carry me on to the next level! (whatever that may be!)
 - Also trying to conceive an autonomous rally car!
