@@ -6,9 +6,23 @@
 
 **`Future Polymath`**
 
-More than 10 years in computer support, administrative management and English tutoring as a second language. Making the transition to data science and engineering, cloud support and systems automation. My side projects include things related to Mobile Applicatios, Game Development, Information Security and Low Level Systems programming.
+More than 10 years in computer support, administrative management and English tutoring as a second language. Now more than 4 years as software developer making projects that focuses on Infosec for Hardware;Machine Learning for Finance;Eloectronics and Telecom for Aerospace; Compilers; Applied Mathmatics for Algorithm Solving; Game Development; DevOps for Cloud.
 
-Skills and Technologies: Python, C, C++, C#, Kotlin, PostgreSQL, MySQL, Azure, AWS, Flask, Django, Net Core, Xamarin, WebGL, ARM, MIPS, LORA, MQTT, AVR, PIC, I2C, UART.
+Call me if you need someone good at being a team player, with good knowledge in various areas and capable of following tight schedules delivering quality code.
+
+Technologies: 
+
+ - OS: Windows, Linux(Ubuntu, RHEL, Kali)
+
+ - Programming Languages: Python, C++, C#, Dart
+
+ - Databases: PostgreSQL, MySQL, MongoDB
+
+ - AI: Tensorflow, OpenCV, Pytorch, Pandas, Seaborn, Matplotlib
+
+ - Hardware: ARM, MIPS, LORA, MQTT, AVR, PIC, I2C, UART
+
+ - Cloud: Azure Containers, AWS Lambda, Terraform, Docker, Kubernetes
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
@@ -30,12 +44,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### 🔭 Goals for 2022-26
 - Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Mathematics and Associate Degree in Cloud Computing).
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models)
-- Also fortify my Math knowledge to apply in Cryptography, Hardware Design and Computer Graphics.
-- Become an advanced programmer in C#, C, C++, Python and Kotlin.
-- Learning how to build flying stuff that can carry me on to the next level! (whatever that may be!)
-- Also trying to conceive an autonomous rally car!
-- Did I say that i'm trying to build a smart submarine too? :D
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models), Electrical Engineering (Machine Learning + IoT) and Mechanical Engineering (AI that simulates thermodynamics)
+- Become an advanced programmer in C#, C++, Python and Dart.
+- Learning how to buid autonomous vehicles (rally car, submarine, drone)
 - Shows with drones!
 - Remaking retro consoles and games from scratch using modern approaches!
 
