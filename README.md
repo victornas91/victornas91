@@ -6,7 +6,7 @@
 
 **`Future Polymath`**
 
-More than 10 years in computer support, administrative management and English tutoring as a second language. Now more than 4 years as software developer making projects that focuses on Infosec for Hardware; Machine Learning for Finance; Electronics and Telecom for Aerospace; Compilers; Applied Mathmatics for Algorithm Solving; Game Development; DevOps for Cloud.
+More than 10 years in computer support, administrative management and English tutoring as a second language. Now more than 4 years as software developer making projects that focuses on Infosec for Pentesting; Machine Learning for Finance; Electronics and Telecom for Aerospace; Compilers; Applied Mathematics for Solving real life problems; Game Development; DevOps for Cloud.
 
 Call me if you need someone good at being a team player, with good knowledge in various areas and capable of following tight schedules delivering quality code.
 
