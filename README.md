@@ -6,21 +6,21 @@
 
 **`Future Polymath`**
 
-More than 10 years in computer support, administrative management and English tutoring as a second language. Now more than 4 years as software developer making projects that focuses on Infosec for Pentesting; Machine Learning for Finance; Electronics and Telecom for Aerospace; Compilers; Applied Mathematics for Solving real life problems; Game Development; DevOps for Cloud.
+More than 10 years in computer support, administrative management and English tutoring as a second language. Now more than 5 years as software developer making projects that focuses on Web Development; Game Development; Cloud Systems; 3d Modeling; API creation and consume.
 
-Call me if you need someone good at being a team player, with good knowledge in various areas and capable of following tight schedules delivering quality code.
+In my spare time I like to make simple projects involving electrical / mechanical engineering.
+
+Call me if you need someone good at being a team player, with good knowledge in various areas and capable of following tight schedules and delivering quality code.
 
 Technologies: 
 
- - OS: Windows, Linux(Ubuntu, RHEL, Kali)
+ - Programming Languages: Python, C#
 
- - Programming Languages: Python, C++, C#, Dart
+ - Game Development: Unity, Godot, Pygame
+
+ - 3d modeling: Blender, MagicaVoxel
 
  - Databases: PostgreSQL, MySQL, MongoDB
-
- - AI: Tensorflow, OpenCV, Pytorch, Pandas, Seaborn, Matplotlib
-
- - Hardware: ARM, MIPS, LORA, MQTT, AVR, PIC, I2C, UART
 
  - Cloud: Azure Containers, AWS Lambda, Terraform, Docker, Kubernetes
 
@@ -43,9 +43,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Technician in Informatics for Internet, Bachelors of Science in Mathematics and Associate Degree in Cloud Computing).
+- Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models), Electrical Engineering (Machine Learning + IoT) and Mechanical Engineering (AI that simulates thermodynamics)
-- Become an advanced programmer in C#, C++, Python and Dart.
+- Become an advanced programmer in C# and Python
 - Learning how to buid autonomous vehicles (rally car, submarine, drone)
 - Shows with drones!
 - Remaking retro consoles and games from scratch using modern approaches!
