@@ -46,7 +46,7 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 - Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models), Electrical Engineering (Machine Learning + IoT) and Mechanical Engineering (AI that simulates thermodynamics)
 - Become an advanced programmer in C# and Python
-- Learning how to buid autonomous vehicles (rally car, submarine, drone)
+- Learning how to build autonomous vehicles (rally car, submarine, drone)
 - Shows with drones!
 - Remaking retro consoles and games from scratch using modern approaches!
 
