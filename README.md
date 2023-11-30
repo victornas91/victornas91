@@ -14,7 +14,7 @@ Call me if you need someone good at being a team player, with good knowledge in 
 
 Technologies: 
 
- - Programming Languages: Python, C#
+ - Programming Languages: Python, C, C#
 
  - Game Development: Unity, Godot, Pygame
 
@@ -34,9 +34,7 @@ The games featured above are part of my project Mobius Lion where I try to build
 
 ### 🧰 Technologies used
 
-<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img
-src="https://github.com/victornas91/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++ logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/python/python-plain.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin logo" width="50" height="50" /> <img 
-src="https://github.com/victornas91/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash logo" width="50" height="50" /> <img 
+<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgresql logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt="Dotnetcore logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/arduino/arduino-plain.svg" alt="Arduino logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix logo" width="50" height="50" />
 
