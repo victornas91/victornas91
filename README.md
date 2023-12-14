@@ -6,7 +6,7 @@
 
 **`Future Polymath`**
 
-More than 10 years in computer support, administrative management and English tutoring as a second language. Now more than 5 years learning Computer Science and Electrical Engineering, focusing on software development for AI; Cloud; Mobile and Games / Graphics. Also focusing on hardware control for embedded systems / IoT; PLC and Avionics.
+More than 10 years in computer support, administrative management and English tutoring as a second language. Now more than 5 years learning Computer Science and Electrical Engineering, focusing on software development for AI; Cloud; Kernel and Games / Graphics. Also focusing on hardware control for embedded systems / IoT; PLC and Avionics.
 
 Call me if you need someone good at being a team player, with good knowledge in various areas and capable of following tight schedules and delivering quality code.
 
