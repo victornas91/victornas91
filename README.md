@@ -12,9 +12,9 @@ Call me if you need someone good at being a team player, with good knowledge in 
 
 Technologies: 
 
- - Programming Languages: Python, C, C#
+ - Programming Languages: Python, C, C++, Typescript
 
- - Game Development: Unity, Godot, Pygame
+ - Game Development: Godot
 
  - 3d modeling: Blender, MagicaVoxel
 
