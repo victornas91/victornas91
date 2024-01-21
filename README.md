@@ -41,7 +41,7 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ### 🔭 Goals for 2022-26
 - Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models), Electrical Engineering (Machine Learning + IoT) and Mechanical Engineering (AI that simulates thermodynamics)
-- Become an advanced programmer in C# and Python
+- Become an advanced programmer in C, C++, Typescript and Python
 - Learning how to build autonomous vehicles (rally car, submarine, drone)
 - Shows with drones!
 - Remaking retro consoles and games from scratch using modern approaches!
