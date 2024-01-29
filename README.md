@@ -14,13 +14,17 @@ Technologies:
 
  - Programming Languages: Python, C, C++, Typescript
 
- - Game Development: Godot
+ - Backend: Flask, Django
 
- - 3d modeling: Blender, MagicaVoxel
+ - Game Development: Godot, SFML
+
+ - 3d modeling: Blender
 
  - Databases: PostgreSQL, MySQL, MongoDB
 
- - Cloud: Azure Containers, AWS Lambda, Terraform, Docker, Kubernetes
+ - DevOps Cloud: Azure Containers, AWS Lambda, Terraform, Docker, Kubernetes, Ansible, Jensinks, Grafana, Azure Adm
+
+ - Hardware / Systems: Analog / Digital Electronics, ARM, PIC, 6502, UART, SPI, LORA, ESP, Yocto, Raspberry Pi
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
@@ -32,7 +36,7 @@ The games featured above are part of my project Mobius Lion where I try to build
 
 ### 🧰 Technologies used
 
-<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C# logo" width="50" height="50" /> <img 
+<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img 
 src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgresql logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt="Dotnetcore logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/arduino/arduino-plain.svg" alt="Arduino logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix logo" width="50" height="50" />
 
@@ -42,14 +46,18 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 - Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models), Electrical Engineering (Machine Learning + IoT) and Mechanical Engineering (AI that simulates thermodynamics)
 - Become an advanced programmer in C, C++, Typescript and Python
-- Learning how to build autonomous vehicles (rally car, submarine, drone)
+- Learning how to build autonomous vehicles (rally cars, submarines)
 - Shows with drones!
 - Remaking retro consoles and games from scratch using modern approaches!
+- Work as a DevOps with a focus on Azure Cloud.
+- Work as Embedded Systems Engineer
+- Work as Systems Programmer
+- Get a job at: Apple, Canonical, NASA, Lockheed, Google, Tesla, Nintendo :D  
 
 ---
 
 ### ⚡ Fun fact
 - I'm a Moebius Syndrome "survivor"
-- In love with automation of all sorts of things: industry, home and boring office stuff!  
+- In love with automation of all sorts of things: nachines, games, industry, home and boring office stuff!  
 
 ---
