@@ -58,6 +58,6 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### ⚡ Fun fact
 - I'm a Moebius Syndrome "survivor"
-- In love with automation of all sorts of things: nachines, games, industry, home and boring office stuff!  
+- In love with automation of all sorts of things: machines, games, industry, home and boring office stuff!  
 
 ---
