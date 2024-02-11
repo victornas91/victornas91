@@ -6,25 +6,14 @@
 
 **`Future Polymath`**
 
-More than 10 years in computer support, administrative management and English tutoring as a second language. Now more than 5 years learning Computer Science and Electrical Engineering, focusing on software development for AI; Cloud; Kernel and Games / Graphics. Also focusing on hardware control for embedded systems / IoT; PLC and Avionics.
+More than 10 years working with Computer Support, Electronics Repair, Management and English as Second Language (ESL) Tutoring. And more than 5 years learning and making freelance projects with IT Infrastructure and Software Development. My goals are further learning and applying on different subjects, like Machine Learning, IoT, Infosec, Game Development, 3d Modeling, Aerospace Engineering, Electronics, Electricity Generation / Storage, Embedded Software, Mobile Applications, Additive Manufacture, Data Mining and Cloud Computing. 
 
-Call me if you need someone good at being a team player, with good knowledge in various areas and capable of following tight schedules and delivering quality code.
+By having a bit of knowledge of these different areas, I can see the macro picture a little better, and by so I have created a free mentoring
+ program to help those wanting to begin their careers on software development. Send me a message on Linkedln so we can have a good chat that will at minimum improve your vision of your career possibilities!  
 
-Technologies: 
+At the moment I'm planning on some SaaS while I work as a Administrative Agent for the city I live currently. 
 
- - Programming Languages: Python, C, C++, Typescript
-
- - Backend: Flask, Django
-
- - Game Development: Godot, SFML
-
- - 3d modeling: Blender
-
- - Databases: PostgreSQL, MySQL, MongoDB
-
- - DevOps Cloud: Azure Containers, AWS Lambda, Terraform, Docker, Kubernetes, Ansible, Jensinks, Grafana, Azure Adm
-
- - Hardware / Systems: Analog / Digital Electronics, ARM, PIC, 6502, UART, SPI, LORA, ESP, Yocto, Raspberry Pi
+No momento estou me aprimorando para lançar meus primeiros SaaS e oferecer novos serviços enquanto sou servidor efetivo da prefeitura de Parnamirim no Rio Grande do Norte, Brasil.
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
@@ -44,14 +33,13 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### 🔭 Goals for 2022-26
 - Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models), Electrical Engineering (Machine Learning + IoT) and Mechanical Engineering (AI that simulates thermodynamics)
-- Become an advanced programmer in C, C++, Typescript and Python
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models), Electrical Engineering (Machine Learning + IoT) and Mechanical Engineering (AI that simulates thermodynamics).
+- Become an advanced programmer in C, C++, Typescript and Python.
 - Learning how to build autonomous vehicles (rally cars, submarines)
 - Shows with drones!
 - Remaking retro consoles and games from scratch using modern approaches!
 - Work as a DevOps with a focus on Azure Cloud.
-- Work as Embedded Systems Engineer
-- Work as Systems Programmer
+- Work as Software Enginner with: Firmwares, Embedded Systems, Mobile Applications, Machine Learning, Fullstack Web and Games. 
 - Get a job at: Apple, Canonical, NASA, Lockheed, Google, Tesla, Nintendo :D  
 
 ---
