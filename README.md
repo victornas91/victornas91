@@ -13,8 +13,6 @@ By having a bit of knowledge of these different areas, I can see the macro pictu
 
 At the moment I'm planning on some SaaS while I work as a Administrative Agent for the city I live currently. 
 
-No momento estou me aprimorando para lançar meus primeiros SaaS e oferecer novos serviços enquanto sou servidor efetivo da prefeitura de Parnamirim no Rio Grande do Norte, Brasil.
-
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
