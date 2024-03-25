@@ -6,12 +6,11 @@
 
 **`Future Polymath`**
 
-More than 10 years working with Computer Support, Electronics Repair, Management and English as Second Language (ESL) Tutoring. And more than 5 years learning and making freelance projects with IT Infrastructure and Software Development. My goals are further learning and applying on different subjects, like Machine Learning, IoT, Infosec, Game Development, 3d Modeling, Aerospace Engineering, Electronics, Electricity Generation / Storage, Embedded Software, Mobile Applications, Additive Manufacture, Data Mining and Cloud Computing. 
+More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. And more than 5 years working as a freelancer developing software and hardware for the most varied areas including mobile applications, social networks, advertising, games and automation.
 
-By having a bit of knowledge of these different areas, I can see the macro picture a little better, and by so I have created a free mentoring
- program to help those wanting to begin their careers on software development. Send me a message on Linkedln so we can have a good chat that will at minimum improve your vision of your career possibilities!  
+Because I have this macro view of things in the areas of computer science and engineering, I created a free mentoring project for beginners in the IT career, where I show the different paths a beginner can take and which technologies they should follow. Send me a DM on Linkedlin so we can get in touch!
 
-At the moment I'm planning on some SaaS while I work as a Administrative Agent for the city I live currently. 
+I'm currently improving myself to launch my first game on Steam and some SaaS (Software as Service) while developing content for social networks.
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
