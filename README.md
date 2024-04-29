@@ -5,6 +5,7 @@
 ---
 
 **`Future Polymath`**
+
 Attention: looking for an internship in IT Support, Software Developer or DevOps, preferably in the areas of Cloud Computing or Machine Learning.
 
 More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. And more than 5 years improving myself in software / hardware development and IT infrastructure. I'm always updating my profile here, so don't be surprised if you visit again and several things have changed!
