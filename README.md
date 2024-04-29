@@ -5,12 +5,33 @@
 ---
 
 **`Future Polymath`**
+Attention: looking for an internship in IT Support, Software Developer or DevOps, preferably in the areas of Cloud Computing or Machine Learning.
 
-More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. And more than 5 years working as a freelancer developing software and hardware for the most varied areas including mobile applications, social networks, advertising, games and automation.
+More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. And more than 5 years improving myself in software / hardware development and IT infrastructure. I'm always updating my profile here, so don't be surprised if you visit again and several things have changed!
 
-Because I have this macro view of things in the areas of computer science and engineering, I created a free mentoring project for beginners in the IT career, where I show the different paths a beginner can take and which technologies they should follow. Send me a DM on Linkedlin so we can get in touch!
+I am currently studying a bachelor's degree in Mathematics and completing a technologist degree in Cloud Computing. Therefore, I am looking for an internship position to be a DevOps with or without support for Cloud or in Machine Learning.
 
-I'm currently improving myself to launch my first game on Steam and some SaaS (Software as Service) while developing content for social networks.
+In addition, I am improving myself every day in the areas of operating systems (kernels and drivers), Information Security (Reverse Engineering and Malware Analysis) and Embedded Software (ARM architecture), in addition to circuit board design. It may not seem like it at first glance, but all these areas are interconnected and this, in addition to facilitating my learning, also encourages me to evolve more and more!
+
+My hobbies include making music, games and 3d art, as well as hand drawing.
+
+Among other characteristics, I am also a native speaker of Portuguese, fluent in English and at a basic level in French and Spanish, as well as being communicative and adapting to changes quickly and being able to work in diverse teams in a world of constant change.
+
+Because I have this macro view of things in the technology area, I created a free mentoring project for beginners in the IT career, where I show the different paths a beginner can take and which technologies they should follow. Get in touch here on chat so we can chat!
+
+Programming Languages: C, C++, C#, Python, Assembly x86 / 6502 / 8051 / ARM
+
+Hardware Architectures: ARM, AVR, ESP32, Raspberry PI
+
+Communication Protocols: LORA, UART, SPI, CAN
+ 
+Graphics: OpenGL, Blender, BlockBench, SDL
+
+Mobile: DotNet and NET MAUI
+
+Database: PostgreSQL, MySQL, MongoDB
+
+DevOps: Google Cloud, Azure, Jenkins, Docker, Ansible, Terraform
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
