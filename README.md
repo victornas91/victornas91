@@ -6,9 +6,13 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in IT Support, Software Developer or DevOps, preferably in the areas of Cloud Computing or Machine Learning.
+Attention: looking for an internship in IT Support or Software Developer, preferably in the areas of Embedded Systems, Systems Development, Cloud Computing or Machine Learning.
 
-More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. And more than 5 years improving myself in software / hardware development and IT infrastructure. I'm always updating my profile here, so don't be surprised if you visit again and several things have changed! I'm focusing now on operating systems (kernels and drivers), Information Security (Reverse Engineering and Malware Analysis) and Internet of Things (ARM architecture, PCB design, Mobile Apps) and DevOps.
+More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. And more than 5 years improving myself in software / hardware development and IT infrastructure. I'm always updating my profile here, so don't be surprised if you visit again and several things have changed! 
+
+I'm focusing now on changing career to work with systems development (kernels, drivers and embedded software), Information Security (Reverse Engineering and Malware Analysis in Mobile Apps) and Machine Learning (Deep Learning applied to Games and Computer Vision).
+
+While these are not my main goals, I also have experience with backend development with Python and backend + mobile app development with C#.
 
 Because I have this macro view of things in the technology area, I created a free mentoring project for beginners in the IT career, where I show the different paths a beginner can take and which technologies they should follow. Get in touch here on chat so we can chat!
 
@@ -44,13 +48,12 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### 🔭 Goals for 2022-26
 - Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on using Mathematics to boost Machine Learning models), Electrical Engineering (Machine Learning + IoT) and Mechanical Engineering (AI that simulates thermodynamics).
-- Become an advanced programmer in C, C++, Typescript and Python.
+- Begin a Masters Degree and then a PhD in Mathematics (focusing on using equations to boost Machine Learning models) and Electrical Engineering (Embedded Systems).
+- Become an advanced programmer in C, C++, C# and Python.
 - Learning how to build autonomous vehicles (rally cars, submarines)
 - Shows with drones!
 - Remaking retro consoles and games from scratch using modern approaches!
-- Work as a DevOps with a focus on Azure Cloud.
-- Work as Software Enginner with: Firmwares, Embedded Systems, Mobile Applications, Machine Learning, Fullstack Web and Games. 
+- Work as Software Enginner with: Kernels, Embedded Software, Machine Learning and Games. 
 - Get a job at: Apple, Canonical, NASA, Lockheed, Google, Tesla, Nintendo :D  
 
 ---
