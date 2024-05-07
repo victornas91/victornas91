@@ -6,15 +6,17 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in IT Support or Software Developer, preferably in the areas of Embedded Systems, Systems Development, Cloud Computing or Machine Learning.
+Attention: looking for an internship in IT Infrastructure or Software Developer.
 
-More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. And more than 5 years improving myself in software / hardware development and IT infrastructure. I'm always updating my profile here, so don't be surprised if you visit again and several things have changed! 
+More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. I'm always updating my profile here, so don't be surprised if you visit again and several things have changed! 
 
-I'm focusing now on changing career to work with systems development (kernels, drivers and embedded software), Information Security (Reverse Engineering and Malware Analysis in Mobile Apps) and Machine Learning (Deep Learning applied to Games and Computer Vision).
+I'm focusing now on changing career to work with systems development (kernels, drivers and embedded software), Information Security (Reverse Engineering and Malware Analysis in Mobile Apps) and Machine Learning for Automation (Deep Learning and Computer Vision).
 
-While these are not my main goals, I also have experience with backend development with Python and backend + mobile app development with C#.
+While these are not my main goals, I also have experience with backend development with Python using Django and backend + mobile app development with C# using NET. I'm also "versed" in electronics repair, home automation, PCB design, DIY Electric Generators / Accumulators and Security Systems Installation.
 
-Because I have this macro view of things in the technology area, I created a free mentoring project for beginners in the IT career, where I show the different paths a beginner can take and which technologies they should follow. Get in touch here on chat so we can chat!
+I also offer tutoring English as a second language, with a focus on immigration and a career in IT. I prepare you for interviews in English following the most modern standards and practices on the market. I am also a consultant in the acquisition of digital assets and I do social media automation.
+
+Because I have this macro view of things in the technology area, I created a free mentoring project for beginners in the IT career, where I show the different paths a beginner can take and which technologies they should follow. Get in touch here on chat so we can talk!
 
 Programming Languages: C, C++, C#, Python, Assembly x86 / 6502 / 8051 / ARM
 
@@ -28,7 +30,7 @@ Mobile: DotNet and NET MAUI
 
 Database: PostgreSQL, MySQL, MongoDB
 
-DevOps: Google Cloud, Azure, Jenkins, Docker, Ansible, Terraform
+DevOps: AWS, Azure, Jenkins, Docker, Ansible, Terraform, Kubernetes, NGINX
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
