@@ -6,31 +6,13 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in IT Infrastructure or Software Developer.
+Attention: looking for an internship in Information Security or Systems Programming (Embedded, Drivers, Kernel).
 
-More than 10 years working with computer maintenance and support, in addition to administrative routines and teaching English as a second language. I'm always updating my profile here, so don't be surprised if you visit again and several things have changed! 
+More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded) and Infosec (Pentest, Reverse Engineering, Malware Analysis). 
 
-I'm focusing now on changing career to work with systems development (kernels, drivers and embedded software), Information Security (Reverse Engineering and Malware Analysis in Mobile Apps) and Machine Learning for Automation (Deep Learning and Computer Vision).
+On my spare time I like to make Games with Unity or OpenGL, Digital Art with Blender or BlockBench, music with Audacity and automate stuff with Python. 
 
-While these are not my main goals, I also have experience with backend development with Python using Django and backend + mobile app development with C# using NET. I'm also "versed" in electronics repair, home automation, PCB design, DIY Electric Generators / Accumulators and Security Systems Installation.
-
-I also offer tutoring English as a second language, with a focus on immigration and a career in IT. I prepare you for interviews in English following the most modern standards and practices on the market. I am also a consultant in the acquisition of digital assets and I do social media automation.
-
-Because I have this macro view of things in the technology area, I created a free mentoring project for beginners in the IT career, where I show the different paths a beginner can take and which technologies they should follow. Get in touch here on chat so we can talk!
-
-Programming Languages: C, C++, C#, Python, Assembly x86 / 6502 / 8051 / ARM
-
-Hardware Architectures: ARM, AVR, ESP32, Raspberry PI
-
-Communication Protocols: LORA, UART, SPI, CAN
- 
-Graphics: OpenGL, Blender, BlockBench, SDL
-
-Mobile: DotNet and NET MAUI
-
-Database: PostgreSQL, MySQL, MongoDB
-
-DevOps: AWS, Azure, Jenkins, Docker, Ansible, Terraform, Kubernetes, NGINX
+Native Portuguese speaker and advanced English.
 
 The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
 
