@@ -6,11 +6,11 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in Information Security or Systems Programming (Embedded, Drivers, Kernel).
+Attention: looking for an internship in Information Security, Machine Learning or Systems Programming (Embedded, Drivers, Kernel).
 
-More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded) and Infosec (Pentest, Reverse Engineering, Malware Analysis). 
+More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Machine Learning (Deep Learning and Computer Vision). All of that applied to the 4.0 industry. 
 
-On my spare time I like to make Games with Unity or OpenGL, Digital Art with Blender or BlockBench, music with Audacity and automate stuff with Python. 
+On my spare time I like to make sites with 3d effects (Three.js), Games (Unity, Godot or OpenGL), Digital Art (Blender or BlockBench) and music with Audacity. 
 
 Native Portuguese speaker and advanced English.
 
@@ -33,12 +33,12 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ### 🔭 Goals for 2022-26
 - Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Mathematics (focusing on using equations to boost Machine Learning models) and Electrical Engineering (Embedded Systems).
-- Become an advanced programmer in C, C++, C# and Python.
+- Become an advanced programmer in C, C++, C#, Typescript and Python.
 - Learning how to build autonomous vehicles (rally cars, submarines)
 - Shows with drones!
 - Remaking retro consoles and games from scratch using modern approaches!
 - Work as Software Enginner with: Kernels, Embedded Software, Machine Learning and Games. 
-- Get a job at: Apple, Canonical, NASA, Lockheed, Google, Tesla, Nintendo :D  
+- Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Nintendo :D  
 
 ---
 
