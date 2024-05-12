@@ -6,9 +6,9 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in Information Security, Machine Learning or Systems Programming (Embedded, Drivers, Kernel).
+Attention: looking for an internship in Information Security, Big Data or Systems Programming (Embedded, Drivers, Kernel).
 
-More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Machine Learning (Deep Learning and Computer Vision). All of that applied to the 4.0 industry. 
+More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Big Data for Cloud (Data Engineering, AWS, Azure). All of that applied to the 4.0 industry.  
 
 On my spare time I like to make sites with 3d effects (Three.js), Games (Unity, Godot or OpenGL), Digital Art (Blender or BlockBench) and music with Audacity. 
 
