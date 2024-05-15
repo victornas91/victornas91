@@ -8,13 +8,37 @@
 
 Attention: looking for an internship in Information Security, Data Science or Software Development.
 
-More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Big Data for Cloud (Data Science, AWS, Azure). All of that applied to the 4.0 industry. 
+More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Big Data for Cloud (Data Science, AWS, Azure). All of that applied to the 4.0 industry.  
 
-On my spare time I like to make sites with 3d effects (Three.js), Games (Unity, Godot or OpenGL), Digital Art (Blender or BlockBench) and music with Audacity. 
+On my spare time I like to make sites with 3d effects (Three.js), Games (Unity, Godot or OpenGL), Digital Art (Blender or BlockBench) and music with Audacity. Native Portuguese speaker and advanced English.
 
-Native Portuguese speaker and advanced English.
+My current projects include: 
 
-The games featured above are part of my project Mobius Lion where I try to build some new entertainment experiences, be it with the help of AI, Computer Graphics, Retro Systems or a combination of all of these! 
+• Make one linux distro for desktop and one for android.   
+• An autonomous rocket (circuits, AI, programming)
+• An autonomous rally car.
+• An autonomous mini submarine that takes pictures.
+• Show with drones.
+• A 24h day trade Cryptocurrency bot.
+• A social score system using computer vision and deep learning.
+• A game for every retro videogame console / handheld ever made, from atari to ps2.
+
+And the techs I'm learning to finish these tasks: 
+
+• Programming Languages: C, C++, C#, Python, Typescript, Assembly 6502 / 8051 / x86 / ARM
+• Operating Systems: Linux
+• CPU: ARM Cortex-M (STM32), ESP32
+• Interfaces: UART, SPI, I2C, CAN
+• Databases: MySQL, PostgreSQL, MongoDB
+• CAD: Altium Designer, FreeCAD
+•Big Data: Numpy, Pytorch, Tensorflow, Kafka, OpenCV
+•Cloud: Azure, GCP
+•Graphics: OpenGL, SFML
+•3D: Three.JS, Blender, Block Bench
+
+I know it's a lot, but I'm passionate about a lot of different stuff and I hope that, if you are interested in talk about these things, or help me achieve all of this, come chat!
+
+Cheers!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
