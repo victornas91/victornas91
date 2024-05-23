@@ -6,7 +6,7 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in Information Security, Data Science or Software Development.
+Attention: looking for an internship in Information Security, Firmware Development, Cloud DevOps or Game Dev.
 
 More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Big Data for Cloud (Data Science, AWS, Azure). All of that applied to the 4.0 industry.  
 
