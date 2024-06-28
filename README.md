@@ -6,9 +6,9 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in Information Security, Kernel / Firmware / Drivers Development, Cloud DevOps or Game Dev.
+Attention: looking for an internship in Information Security or Systems Programming (Kernel, Firmware, Drivers)
 
-More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Big Data for Cloud (Data Science, AWS, Azure). All of that applied to the 4.0 industry.  
+More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Big Data. All of that applied to the 4.0 industry.  
 
 On my spare time I like to make sites with 3d effects (Three.js), Games (Unity, Godot or OpenGL), Digital Art (Blender or BlockBench) and music with Audacity. Native Portuguese speaker and advanced English.
 
@@ -26,13 +26,13 @@ My current projects include:
 And the techs I'm learning to finish these tasks: 
 
 • Programming Languages: C, C++, C#, Python, Typescript, Assembly 6502 / 8051 / x86 / ARM
-• Operating Systems: Linux
+• Operating Systems: Linux, Windows
 • CPU: ARM Cortex-M (STM32), ESP32
 • Interfaces: UART, SPI, I2C, CAN
 • Databases: MySQL, PostgreSQL, MongoDB
-• CAD: Altium Designer, FreeCAD
+• CAD: Altium Designer
 •Big Data: Numpy, Pytorch, Tensorflow, Kafka, OpenCV
-•Cloud: Azure, GCP
+•Cloud: Azure
 •Graphics: OpenGL, SFML
 •3D: Three.JS, Blender, Block Bench
 
