@@ -12,36 +12,35 @@ More than 10 years working with IT support and teaching English as a second lang
 
 Now I have been improving myself in software development for more than 5 years in the areas of: 
 
-• Systems Programming 
-• Information Security
-• Machine Learning
-• Cloud Integration. 
-• Mathematics
-• Electrical and Aeronautical Engineering
+- Systems Programming
+- Information Security
+- Machine Learning
+- Cloud Integration. 
+- Mathematics
+- Electrical and Aeronautical Engineering
 
 My current projects include: 
 
-• Make one linux distro for desktop and one for android.   
-• An autonomous rocket (circuits, AI, programming)
-• An autonomous rally car.
-• An autonomous mini submarine that takes pictures.
-• Show with drones.
-• A 24h day trade Cryptocurrency bot.
-• A social score system using computer vision and deep learning.
-• A game for every retro videogame console / handheld ever made, from atari to ps2.
+- Make one linux distro for desktop and one for android.   
+- An autonomous rocket (circuits, AI, programming)
+- An autonomous rally car.
+- An autonomous mini submarine that takes pictures.
+- Show with drones.
+- A 24h day trade Cryptocurrency bot.
+- A social score system using computer vision and deep learning.
+- A game for every retro videogame console / handheld ever made, from atari to ps2.
 
 And the techs I'm learning to finish these tasks: 
 
-• Programming Languages: C, C++, C#, Python, Assembly 6502 / 8051 / x86 / ARM
-• Operating Systems: Linux, Windows
-• CPU: ARM Cortex-M (STM32), ESP32
-• Interfaces: UART, SPI, I2C, CAN
-• Databases: MySQL, PostgreSQL, MongoDB
-• CAD: Altium Designer
-• Big Data: Numpy, Pytorch, Tensorflow, Kafka, OpenCV
-• Cloud: Azure
-• Graphics: OpenGL, SFML
-• 3D: Three.JS, Blender, Block Bench
+- Programming Languages: C, C++, C#, Python, Assembly 6502 / 8051 / x86 / ARM
+- Operating Systems: Linux, Windows
+- CPU: ARM Cortex-M (STM32), ESP32
+- Interfaces: UART, SPI, I2C, CAN
+- Databases: MySQL, PostgreSQL, MongoDB
+- CAD: Altium Designer
+- Big Data: Numpy, Pytorch, Tensorflow, Kafka, OpenCV
+- Cloud: Azure
+- Graphics: OpenGL, SFML
 
 I know it's a lot, but I'm passionate about a lot of different stuff and I hope that, if you are interested in talk about these things, or help me achieve all of this, come chat!
 
