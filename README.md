@@ -6,11 +6,18 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in Information Security or Systems Programming (Kernel, Firmware, Drivers)
+Attention: looking for an internship in Systems Programming (Kernel, Firmware, Drivers) or Cloud DevOps.
 
-More than 10 years working with IT support and teaching English as a second language. Now I have been improving myself in software development for more than 5 years in the areas of Systems Programming (Kernel, Drivers, Embedded), Infosec (Pentest, Reverse Engineering, Malware Analysis) and Big Data. All of that applied to the 4.0 industry.  
+More than 10 years working with IT support and teaching English as a second language. 
 
-On my spare time I like to make sites with 3d effects (Three.js), Games (Unity, Godot or OpenGL), Digital Art (Blender or BlockBench) and music with Audacity. Native Portuguese speaker and advanced English.
+Now I have been improving myself in software development for more than 5 years in the areas of: 
+
+• Systems Programming 
+• Information Security
+• Machine Learning
+• Cloud Integration. 
+• Mathematics
+• Electrical and Aeronautical Engineering
 
 My current projects include: 
 
@@ -25,16 +32,16 @@ My current projects include:
 
 And the techs I'm learning to finish these tasks: 
 
-• Programming Languages: C, C++, C#, Python, Typescript, Assembly 6502 / 8051 / x86 / ARM
+• Programming Languages: C, C++, C#, Python, Assembly 6502 / 8051 / x86 / ARM
 • Operating Systems: Linux, Windows
 • CPU: ARM Cortex-M (STM32), ESP32
 • Interfaces: UART, SPI, I2C, CAN
 • Databases: MySQL, PostgreSQL, MongoDB
 • CAD: Altium Designer
-•Big Data: Numpy, Pytorch, Tensorflow, Kafka, OpenCV
-•Cloud: Azure
-•Graphics: OpenGL, SFML
-•3D: Three.JS, Blender, Block Bench
+• Big Data: Numpy, Pytorch, Tensorflow, Kafka, OpenCV
+• Cloud: Azure
+• Graphics: OpenGL, SFML
+• 3D: Three.JS, Blender, Block Bench
 
 I know it's a lot, but I'm passionate about a lot of different stuff and I hope that, if you are interested in talk about these things, or help me achieve all of this, come chat!
 
