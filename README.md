@@ -13,6 +13,8 @@ More than 10 years working with IT support and teaching English as a second lang
 Now I have been improving myself in software development for more than 5 years in the areas of: 
 
 - Systems Programming
+- Game Development
+- 3D Modeling
 - Information Security
 - Machine Learning
 - Cloud Integration. 
