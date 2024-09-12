@@ -14,12 +14,8 @@ Now I have been improving myself in software development for more than 5 years i
 
 - Systems Programming
 - Game Development
-- 3D Modeling
 - Information Security
 - Machine Learning
-- Cloud Integration. 
-- Mathematics
-- Electrical and Aeronautical Engineering
 
 My current projects include: 
 
