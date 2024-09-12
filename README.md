@@ -6,7 +6,7 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in Systems Programming (Kernel, Firmware, Drivers) or Cloud DevOps.
+Attention: looking for an internship in IT.
 
 More than 10 years working with IT support and teaching English as a second language. 
 
