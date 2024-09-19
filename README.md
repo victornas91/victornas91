@@ -39,6 +39,7 @@ And the techs I'm learning to finish these tasks:
 - Big Data: Numpy, Pytorch, Tensorflow, Kafka, OpenCV
 - Cloud: Azure
 - Graphics: OpenGL, SFML
+- Web / Mobile: NET, WebGL
 
 I know it's a lot, but I'm passionate about a lot of different stuff and I hope that, if you are interested in talk about these things, or help me achieve all of this, come chat!
 
@@ -59,13 +60,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologic Degree in Cloud Computing).
+- Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologist Degree in Cloud Computing).
 - Begin a Masters Degree and then a PhD in Mathematics (focusing on using equations to boost Machine Learning models) and Electrical Engineering (Embedded Systems).
-- Become an advanced programmer in C, C++, C#, Typescript and Python.
-- Learning how to build autonomous vehicles (rally cars, submarines)
-- Shows with drones!
-- Remaking retro consoles and games from scratch using modern approaches!
-- Work as Software Enginner with: Kernels, Embedded Software, Machine Learning and Games. 
+- Become an advanced programmer in C, C++, C# and Python.
 - Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Nintendo :D  
 
 ---
