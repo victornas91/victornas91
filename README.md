@@ -8,40 +8,30 @@
 
 Attention: looking for an internship in IT.
 
-More than 10 years working with IT support and teaching English as a second language. 
+My expertise are almost 20 years on the IT field, having almost 15 in Support and 5 in Software Development and Infosec Research. I also have more than 10 years of teaching english as a second language, as a freelance. 
 
-Now I have been improving myself in software development for more than 5 years in the areas of: 
+Focusing on Mobile App Development for Games / Gamification, Internet of Things, Machine Learning and Operating Systems, my aim is to design and implement software that is robust, safe and also Cloud-supported. 
 
-- Systems Programming
-- Game Development
-- Information Security
-- Machine Learning
+I also offer services such as: 
 
-My current projects include: 
+- Preparation / mock interviews for real job applications
+- Digital assets aquisition
+- Social networks account automation; 
 
-- Make one linux distro for desktop and one for android.   
-- An autonomous rocket (circuits, AI, programming)
-- An autonomous rally car.
-- An autonomous mini submarine that takes pictures.
-- Show with drones.
-- A 24h day trade Cryptocurrency bot.
-- A social score system using computer vision and deep learning.
-- A game for every retro videogame console / handheld ever made, from atari to ps2.
+Some of my projects that are being built on my Youtube channel (@victornas91): 
 
-And the techs I'm learning to finish these tasks: 
-
-- Programming Languages: C, C++, C#, Python, Assembly 6502 / 8051 / x86 / ARM
-- Operating Systems: Linux, Windows
-- CPU: ARM Cortex-M (STM32), ESP32
-- Interfaces: UART, SPI, I2C, CAN
-- Databases: MySQL, PostgreSQL, MongoDB
-- CAD: Altium Designer
-- Big Data: Numpy, Pytorch, Tensorflow, Kafka, OpenCV
-- Cloud: Azure
-- Graphics: OpenGL, SFML
-- Web / Mobile: NET, WebGL
-
-I know it's a lot, but I'm passionate about a lot of different stuff and I hope that, if you are interested in talk about these things, or help me achieve all of this, come chat!
+• Make one linux distro for for android. 
+• An autonomous rocket (circuits, AI, programming)
+• An autonomous rally car.
+• An autonomous mini submarine that takes pictures.
+• Show with drones.
+• A 24h day trade Cryptocurrency bot.
+• A social score system using computer vision and deep learning.
+• A game for every retro videogame console / handheld ever made, from atari to ps2.
+• A 2d and a 3d fluids simulator
+• A mmo playable on browser
+• Reverse engineering of mobile apps.
+• Building a pentesting kit focused on mobile systems.
 
 Cheers!
 
