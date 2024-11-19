@@ -50,8 +50,8 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Bachelors of Science in Mathematics and Technologist Degree in Cloud Computing).
-- Begin a Masters Degree and then a PhD in Mathematics (focusing on using equations to boost Machine Learning models) and Electrical Engineering (Embedded Systems).
+- Finish all the degrees I'm currenty pursuing (Technologist Degree in Cloud Computing).
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems).
 - Become an advanced programmer in C, C++, C# and Python.
 - Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Nintendo :D  
 
