@@ -10,7 +10,7 @@ Attention: looking for an internship in IT.
 
 My expertise are almost 20 years on the IT field, having almost 15 in Support and 5 in Software Development and Infosec Research. I also have more than 10 years of teaching english as a second language, as a freelance. 
 
-Focusing on Mobile App Development for Games / Gamification, Internet of Things, Machine Learning and Operating Systems, my aim is to design and implement software that is robust, safe and also Cloud-supported. 
+Focusing on Mobile App Development for Games / Gamification, Cloud Engineering for Azure and Information Security for Mobile Apps. My aim is to design and implement software that is robust, safe and also Cloud-supported. 
 
 I also offer services such as: 
 
