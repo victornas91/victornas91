@@ -6,11 +6,9 @@
 
 **`Future Polymath`**
 
-Attention: looking for an internship in IT.
-
 My expertise are almost 20 years on the IT field, having almost 15 in Support and 5 in Software Development and Infosec Research. I also have more than 10 years of teaching english as a second language, as a freelance. 
 
-Focusing on Mobile App Development for Games / Gamification, Cloud Engineering for Azure and Information Security for Mobile Apps. My aim is to design and implement software that is robust, safe and also Cloud-supported. 
+Studying concepts such as Cloud Computing, Game Development, 3D Modeling, Kernels, Pentesting, Android Reverse Engineerng, Telecom, Internet of Things, Automotive, Aerospace, Robotics and AI.  
 
 I also offer services such as: 
 
@@ -49,10 +47,10 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ---
 
-### 🔭 Goals for 2022-26
-- Finish all the degrees I'm currenty pursuing (Technologist Degree in Cloud Computing).
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems).
-- Become an advanced programmer in C, C++, C# and Python.
+### 🔭 Goals for 2022-2030
+- Finish all the degrees I'm currenty pursuing (Technician in Informatics, Technologist Degree in Cloud Computing, Technologist Degree in Automotive Mechatronics, Bachelors of Science in Computer Science).
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Thermodynamics Simulations) and Electrical Engineering (Smart Robots).
+- Become an advanced programmer in C, C# and Python.
 - Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Nintendo :D  
 
 ---
