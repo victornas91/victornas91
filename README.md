@@ -6,15 +6,18 @@
 
 **`Future Polymath`**
 
-My expertise are almost 20 years on the IT field, having almost 15 in Support and 5 in Software Development and Infosec Research. I also have more than 10 years of teaching english as a second language, as a freelance. 
+More than 15 years working with IT support and teaching English as a second language for brazilians. Now I have been studying and working with Computer Science and Engineering for more than 5 years in the areas of Embedded Systems, Cloud Computing and Game Development. Native Portuguese speaker and advanced English.
 
-Studying concepts such as Cloud Computing, Game Development, 3D Modeling, Kernels, Pentesting, Android Reverse Engineerng, Telecom, Internet of Things, Automotive, Aerospace, Robotics and AI.  
 
 I also offer services such as: 
 
-- Preparation / mock interviews for real job applications
-- Digital assets aquisition
-- Social networks account automation; 
+- Social Media Automation.
+- Gamification and Mobile Game Development using Unity, zBrush and Blender.
+- PCB Design using Altium Designer.
+- Home and Industry Automation.
+- Cloud Computing / DevOps Consulting and Automation for Azure.
+- Development of Software and Hardware Tools for Information Security purposes.
+
 
 Some of my projects that are being built on my Youtube channel (@victornas91): 
 
@@ -49,8 +52,9 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### 🔭 Goals for 2022-2030
 - Finish all the degrees I'm currenty pursuing (Technician in Informatics, Technologist Degree in Cloud Computing, Technologist Degree in Automotive Mechatronics, Bachelors of Science in Computer Science).
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Thermodynamics Simulations) and Electrical Engineering (Smart Robots).
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Thermodynamics Simulations or Additive Manufatcure), Aerospace Engineering (Electronics for Aerospace) and Electrical Engineering (Smart Robots).
 - Become an advanced programmer in C, C# and Python.
+- Get certifications for Cloud Computing and Information Security.
 - Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Nintendo :D  
 
 ---
