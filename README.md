@@ -6,7 +6,33 @@
 
 **`Future Polymath`**
 
-More than 15 years working with IT support and teaching English as a second language for brazilians. Now I have been studying and working with Computer Science and Engineering for more than 5 years in the areas of Embedded Systems, Cloud Computing, Machine Learning and Game Development. Native Portuguese speaker and advanced English.
+More than 15 years working with IT support and tutoring English as a second language for brazilians. Now I have been studying and working with Computer Science and Engineering for more than 5 years in the areas of Embedded Systems (IoT and Embedded AI), Cloud Computing (Azure), Machine Learning (Deep Learning applied to Finance) and Game Development (Unity, Retro and AI for Games). I also research Information Security topics such as Reverse Engineering of Mobile Apps and Pentesting on Android.
+
+I also offer services such as:
+
+• Social Media Automation.
+• Gamification and Mobile Game Development using Unity, zBrush and Blender.
+• PCB Design using Altium Designer.
+• Home Automation and Surveillance Installation.
+• Cloud Computing / DevOps Consulting for Azure.
+• Development of Software and Hardware Tools for Information Security purposes.
+
+Some of my projects that are being built on my Youtube channel (@victornas91):
+
+• Make one linux distro for desktop and another for android. 
+• An autonomous rocket (circuits, AI, programming)
+• An autonomous rally car. 
+• An autonomous mini submarine that takes pictures. 
+• Show with drones. 
+• A 24h day trade Cryptocurrency bot. 
+• A social score system using computer vision and deep learning. 
+• A game for every retro videogame console / handheld ever made, from atari to ps2. 
+• A 2d and a 3d fluids simulator 
+• A mmo playable on browser 
+• Reverse engineering of mobile apps. 
+• Building a pentesting kit focused on mobile systems.
+
+Cheers!
 
 
 I also offer services such as: 
