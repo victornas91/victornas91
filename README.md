@@ -11,13 +11,9 @@ More than 15 years working with IT support and tutoring English as a second lang
 I also offer services such as: 
 
 - Social Media Automation.
-- Gamification and Mobile Apps Development.
-- System Integration with Internet of Things.
-- Surveillance Equipment Installation.
-- Cloud Computing Consulting for Azure.
-- Development of Software and Hardware Tools for Information Security purposes.
 - 3D websites for portfolios or marketing.
 - Machine Learning Models for Finance or 4.0 Industry.
+- Pentesting / Forensics for Mobile Devices.
 
 Some of my projects that are being built on my Youtube channel (@victornas91): 
 
