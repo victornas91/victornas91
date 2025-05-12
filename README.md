@@ -6,7 +6,7 @@
 
 **`Future Polymath`**
 
-More than 15 years working with IT support and tutoring English as a second language for brazilians. Now I have been studying and working with Computer Science and Engineering for more than 5 years in the areas of Embedded Systems (IoT and Embedded AI), Cloud Computing (Azure), Machine Learning (Deep Learning applied to Finance) and Game Development (Unity, Retro and AI for Games). I also research Information Security topics such as Reverse Engineering of Mobile Apps and Pentesting on Android. I also do physics experiments with Eletromagnetism, Optics and Telecom.
+More than 15 years working with IT support and tutoring English as a second language for brazilians. Now I have been studying and working with Computer Science and Engineering for more than 5 years in the areas of Embedded Systems (IoT and Embedded AI), Cloud Computing (Azure, OpenStack and CloudStack), Machine Learning (Deep Learning applied to Finance) and Game Development (Unity, Retro and AI for Games). I also research Information Security topics such as Reverse Engineering of Mobile Apps and Pentesting on Android. I also do physics experiments with Eletromagnetism, Optics and Telecom.
 
 I also offer services such as: 
 
