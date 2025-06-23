@@ -4,31 +4,32 @@
 
 ---
 
-**`Future Polymath`**
+**`Polymath under construction`**
 
-More than 15 years working with IT support and tutoring English as a second language for brazilians. Now I have been studying and working with Computer Science and Engineering for more than 5 years in the areas of Embedded Systems (IoT and Embedded AI), Cloud Computing (Azure, OpenStack and CloudStack), Machine Learning (Deep Learning applied to Finance) and Game Development (Unity, Retro and AI for Games). I also research Information Security topics such as Reverse Engineering of Mobile Apps and Pentesting on Android. I also do physics experiments with Eletromagnetism, Optics and Telecom.
+More than 15 years working with IT support and tutoring English as a second language for brazilians. Now I have been studying and working with Computer Science and Engineering for more than 5 years in the areas of Systems Development (IoT, Kernels and Infrastructure), Cloud Computing (Azure), Machine Learning (Finance and Industry 4.0) and Game Development (Unity, Retro and AI for Games). 
 
-I also offer services such as: 
+Research topics:
 
-- Social Media Automation.
-- 3D websites for portfolios or marketing.
-- Machine Learning Models for Finance or 4.0 Industry.
-- Pentesting / Forensics for Mobile Devices.
+• Reverse Engineering of Mobile Apps
+• Android Pentesting
+• Eletromagnetism
+• Optics
+• Telecom
 
-Some of my projects that are being built on my Youtube channel (@victornas91): 
+Project goals for my Youtube channel (@victornas91):
 
-- Make one linux distro for for android. 
-- An autonomous rocket (circuits, AI, programming)
-- An autonomous rally car.
-- An autonomous mini submarine that takes pictures.
-- Show with drones.
-- A 24h day trade Cryptocurrency bot.
-- A social score system using computer vision and deep learning.
-- A game for every retro videogame console / handheld ever made, from atari to ps2.
-- A 2d and a 3d fluids simulator
-- A mmo playable on browser
-- Reverse engineering of mobile apps.
-- Building a pentesting kit focused on mobile systems.
+• Make one linux distro for desktop and another for android. 
+• An autonomous rocket (circuits, AI, programming)
+• An autonomous rally car. 
+• An autonomous mini submarine that takes pictures. 
+• Show with drones. 
+• A 24h day trade Cryptocurrency bot. 
+• A social score system using computer vision and deep learning. 
+• A game for every retro videogame console / handheld ever made, from atari to ps2. 
+• A 2d and a 3d fluids simulator 
+• A mmo playable on browser 
+• Reverse engineering of mobile apps. 
+• Building a pentesting kit focused on mobile systems.
 
 Cheers!
 
@@ -51,7 +52,7 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 - Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Thermodynamics Simulations or Additive Manufatcure), Aerospace Engineering (Electronics for Aerospace) and Electrical Engineering (Smart Robots).
 - Become an advanced programmer in C, C# and Python.
 - Get certifications for Cloud Computing and Information Security.
-- Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Nintendo :D  
+- Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Sega :D  
 
 ---
 
