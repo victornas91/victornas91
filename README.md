@@ -14,9 +14,9 @@ Skills:
 
 • Python, C, C#, Assembly ARM
 • SQL, NoSQL
-• GCP, Azure, Microsoft 365
+• GCP, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana
 • Pytorch, Tensorflow, Apache Spark
-• PIC, STM32, Avr, Yocto, ESP32, ARM
+• PIC, STM32, AVR, Yocto, ESP32, ARM
 
 Project goals for my Youtube channel (@victornas91):
 
