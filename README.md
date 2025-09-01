@@ -4,32 +4,41 @@
 
 ---
 
-**`Polymath under construction`**
+** Polymath under construction **
 
-More than 15 years working with IT support and tutoring English as a second language for brazilians. Now I have been studying and working with Computer Science and Engineering for more than 5 years in the areas of Systems Development (IoT, Kernels and Infrastructure), Cloud Computing (Azure), Machine Learning (Finance and Industry 4.0) and Game Development (Unity, Retro and AI for Games). 
+More than 15 years working with IT, mainly support and maintenance and also tutoring English as a second language for brazilians. Now I have been studying and working with Computer Science for more than 5 years in the areas of Big Data (DevOps, Cloud Admin, Machine Vision), Embedded Systems (AI, Linux, IoT) and Game Development. 
 
-Research topics:
+When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with electronics, telecom, physics experiments (mainly electromagnetism, optics) and infosec research (reverse engineering of mobile apps and Wifi Pentest). Also I like to learn new languages (now I'm a beginner at French, Spanish and Italian).
 
-• Reverse Engineering of Mobile Apps
-• Android Pentesting
-• Eletromagnetism
-• Optics
-• Telecom
+Skills: 
+
+• Python, C, C#, Assembly ARM
+• SQL, NoSQL
+• GCP, Azure, Microsoft 365
+• Pytorch, Tensorflow, Apache Spark
+• PIC, STM32, Avr, Yocto, ESP32, ARM
 
 Project goals for my Youtube channel (@victornas91):
 
 • Make one linux distro for desktop and another for android. 
-• An autonomous rocket (circuits, AI, programming)
+• An autonomous rocket (circuits, AI, programming).
 • An autonomous rally car. 
 • An autonomous mini submarine that takes pictures. 
 • Show with drones. 
 • A 24h day trade Cryptocurrency bot. 
 • A social score system using computer vision and deep learning. 
 • A game for every retro videogame console / handheld ever made, from atari to ps2. 
-• A 2d and a 3d fluids simulator 
-• A mmo playable on browser 
+• A 2d and a 3d fluids simulator. 
+• A mmo playable on browser.
 • Reverse engineering of mobile apps. 
 • Building a pentesting kit focused on mobile systems.
+• Telecom / LoRa hacking and development.
+• IoT design and development.
+• AI-based gaming assistants.
+• Custom game engines.
+• AI-Powered Systems.
+• IT Career Consulting.
+• English lessons for brazilians.
 
 Cheers!
 
