@@ -6,17 +6,19 @@
 
 ** Polymath under construction **
 
-More than 15 years working with IT, mainly support and maintenance and also tutoring English as a second language for brazilians. Now I have been studying and working with Computer Science for more than 5 years in the areas of Big Data (DevOps, Cloud Admin, Machine Vision), Embedded Systems (AI, Linux, IoT) and Game Development. 
+More than 15 years working with IT, mainly support and maintenance and also tutoring English as a second language for brazilians. Now I have been studying and working with Software Engineering for Games, Embedded Systems and Machine Learning. And also Cloud Engineering for AWS and Azure.     
 
-When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with electronics, telecom, physics experiments (mainly electromagnetism, optics) and infosec research (reverse engineering of mobile apps and Wifi Pentest). Also I like to learn new languages (now I'm a beginner at French, Spanish and Italian).
+When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with electronics, telecom, physics experiments (mainly electromagnetism, optics) and infosec research (reverse engineering of mobile apps and wifi pentest). Also I like to learn new languages (now I'm a beginner at French, Spanish and Italian).
 
 Skills: 
 
-• Python, C, C#, Assembly ARM
-• SQL, NoSQL
-• GCP, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana
+• Python, C, C#, Assembly x86 / ARM / 8051 / 6502
+• MySQL, MongoDB, PostgreSQL
+• AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix,
 • Pytorch, Tensorflow, Apache Spark
 • PIC, STM32, AVR, Yocto, ESP32, ARM
+• .NET, Django, Flask, FastAPI
+• Unity, OpenGL, SFML
 
 Project goals for my Youtube channel (@victornas91):
 
