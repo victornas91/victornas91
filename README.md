@@ -3,12 +3,11 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
+15+ years working with IT, mainly support, infrastructure and tutoring English as a second language for brazilians. Now also 5+ years as a Software / Cloud Engineer. 
 
-** Polymath under construction **
+When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with embedded systems for eletromechanical devices / telecom; Doing physics experiments (mainly electromagnetism, optics); Infosec research (reverse engineering of mobile apps and android pentesting) or Game Development for mobile and VR. 
 
-More than 15 years working with IT, mainly support and maintenance and also tutoring English as a second language for brazilians. Now I have been studying and working with Software Engineering for Games, Embedded Systems and Machine Learning. And also Cloud Engineering for AWS and Azure.     
-
-When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with electronics, telecom, physics experiments (mainly electromagnetism, optics) and infosec research (reverse engineering of mobile apps and wifi pentest). Also I like to learn new languages (now I'm a beginner at French, Spanish and Italian).
+I also like to learn new languages (now I'm a beginner at French, Spanish and Italian).
 
 Skills: 
 
