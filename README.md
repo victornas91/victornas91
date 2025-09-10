@@ -16,7 +16,7 @@ Skills:
 • AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix,
 • Pytorch, Tensorflow, Apache Spark
 • PIC, STM32, AVR, Yocto, ESP32, ARM
-• .NET, Django, Flask, FastAPI
+• ASP.Net, MAUI, Django, Flask, FastAPI
 • Unity, OpenGL, SFML
 
 Project goals for my Youtube channel (@victornas91):
