@@ -58,8 +58,8 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### 🔭 Goals for 2022-2030
-- Finish all the degrees I'm currently pursuing (Technician in Informatics, Technologist Degree in Cloud Computing, Technologist Degree in Automotive Mechatronics, Bachelors of Science in Computer Science).
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Thermodynamics Simulations or Additive Manufacture), Aerospace Engineering (Electronics for Aerospace) and Electrical Engineering (Smart Robots).
+- Finish all the degrees I'm currently pursuing (Technician in Telecommunications, Technologist Degree in DevOps, Bachelors of Science in Computer Science, Bachelors of Science in Mechanical Engineering).
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems or Mathematics for ML or Gen AI), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Thermodynamics Simulations or Additive Manufacture), Aerospace Engineering (Electronics for Aerospace) and Electrical Engineering (Smart Robots).
 - Become an advanced programmer in C, C# and Python.
 - Get certifications for Cloud Computing and Information Security.
 - Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Sega :D  
