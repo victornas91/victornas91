@@ -3,9 +3,13 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
-15+ years working with IT, mainly support, infrastructure and tutoring English as a second language for brazilians. Now also 5+ years as a Software / Cloud Engineer. 
+15+ years working with IT, mainly support, infrastructure and as a ESL for brazilians. Now also 5+ years as a Software Enginner (IoT, Games, Appsec, Web, Mobile), Cloud Engineer (Azure) and Machine Learning Enginner (Deep Learning, Machine Vision and Embedded AI). 
 
-When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with embedded systems for eletromechanical devices / telecom; Doing physics experiments (mainly electromagnetism, optics); Infosec research (reverse engineering of mobile apps and android pentesting) or Game Development for mobile and VR. 
+When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with:
+
+• Embedded Systems for eletromechanical devices / telecom
+• Physics experiments (mainly electromagnetism, optics)
+• Infosec research (reverse engineering of mobile apps and android pentesting)
 
 I also like to learn new languages (now I'm a beginner at French, Spanish and Italian).
 
