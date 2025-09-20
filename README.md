@@ -3,7 +3,7 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
-15+ years working with IT, mainly support, infrastructure and as a ESL for brazilians. Now also 5+ years as a Software Enginner (IoT, Games, Appsec, Web, Mobile), Cloud Engineer (Azure) and Machine Learning Enginner (Deep Learning, Machine Vision and Embedded AI). 
+15+ years working with IT, mainly support, infrastructure and as a ESL for brazilians. Now also 5+ years as a Systems Programmer (IoT, Games, Appsec, Web, Mobile, Infrastructure), Cloud Engineer (Azure) and Machine Learning Enginner (Deep Learning, Machine Vision and Embedded AI).  
 
 When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with:
 
