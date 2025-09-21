@@ -3,19 +3,20 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
-15+ years working with IT, mainly support, infrastructure and as a ESL for brazilians. Now also 5+ years as a Systems Programmer (IoT, Games, Appsec, Web, Mobile, Infrastructure), Cloud Engineer (Azure) and Machine Learning Enginner (Deep Learning, Machine Vision and Embedded AI).  
+15+ years working with IT, mainly support, infrastructure and as a ESL for brazilians. Now also 5+ years studying and doing freelance projects as a Machine Learning Enginner, Systems Programmer and focusing on the "Operations" culture (DevOps, DevSecOps, FinOps). Also some Pentesting, Blue Team (Server Hardening), Gamification and Website Development jobs on the side.
 
 When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with:
 
-• Embedded Systems for eletromechanical devices / telecom
-• Physics experiments (mainly electromagnetism, optics)
-• Infosec research (reverse engineering of mobile apps and android pentesting)
+• Embedded Systems for Eletromechanical devices / Telecom.
+• Physics experiments (mainly Electromagnetism, Optics, automated with IoT).
+• Infosec research (Reverse Engineering of mobile apps).
+• Retro Game Dev (from Atari to PS2 and handhelds in between).
 
 I also like to learn new languages (now I'm a beginner at French, Spanish and Italian).
 
 Skills: 
 
-• Python, C, C#, Assembly x86 / ARM / 8051 / 6502
+• Python, C, C#, Typescript, Assembly x86 / ARM / 8051 / 6502
 • MySQL, MongoDB, PostgreSQL
 • AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix,
 • Pytorch, Tensorflow, Apache Spark
