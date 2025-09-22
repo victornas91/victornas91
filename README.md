@@ -3,7 +3,14 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
-15+ years working with IT, mainly support, infrastructure and as a ESL for brazilians. Now also 5+ years studying and doing freelance projects as a Machine Learning Enginner, Systems Programmer and focusing on the "Operations" culture (DevOps, DevSecOps, FinOps). Also some Pentesting, Blue Team (Server Hardening), Gamification and Website Development jobs on the side.
+15+ years working with IT, mainly support, infrastructure and as a ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, now an IT Manager and Cloud Admin that oversees operations related to more than 3000 people.
+
+Parallel to that I also do freelance projects and research on topics such as: 
+- Machine Learning (Data Analysis for IoT, Data Science with 3D models and Machine Vision).
+- Systems Programming (IoT, Windows Kernel, Infrastructure).
+- Game Dev (Unity, Retro, Procedural Generation, AI for Games).
+- Information Security (Pentesting, Reverse Engineering).
+- Web and Mobile Development. 
 
 When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with:
 
