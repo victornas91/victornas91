@@ -12,46 +12,39 @@ Parallel to that I also do freelance projects and research on topics such as:
 - Information Security (Pentesting, Reverse Engineering).
 - Web and Mobile Development. 
 
-When I'm not trying to build the next Skynet or AI robot companion, I'm tinkering with:
-
-• Embedded Systems for Eletromechanical devices / Telecom.
-• Physics experiments (mainly Electromagnetism, Optics, automated with IoT).
-• Infosec research (Reverse Engineering of mobile apps).
-• Retro Game Dev (from Atari to PS2 and handhelds in between).
-
 I also like to learn new languages (now I'm a beginner at French, Spanish and Italian).
 
 Skills: 
 
-• Python, C, C#, Typescript, Assembly x86 / ARM / 8051 / 6502
-• MySQL, MongoDB, PostgreSQL
-• AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix,
-• Pytorch, Tensorflow, Apache Spark
-• PIC, STM32, AVR, Yocto, ESP32, ARM
-• ASP.Net, MAUI, Django, Flask, FastAPI
-• Unity, OpenGL, SFML
+- Python, C, C#, Typescript, Assembly x86 / ARM / 8051 / 6502
+- MySQL, MongoDB, PostgreSQL
+- AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix,
+- Pytorch, Tensorflow, Apache Spark
+- PIC, STM32, AVR, Yocto, ESP32, ARM
+- ASP.Net, MAUI, Django, Flask, FastAPI
+- Unity, OpenGL, SFML
 
 Project goals for my Youtube channel (@victornas91):
 
-• Make one linux distro for desktop and another for android. 
-• An autonomous rocket (circuits, AI, programming).
-• An autonomous rally car. 
-• An autonomous mini submarine that takes pictures. 
-• Show with drones. 
-• A 24h day trade Cryptocurrency bot. 
-• A social score system using computer vision and deep learning. 
-• A game for every retro videogame console / handheld ever made, from atari to ps2. 
-• A 2d and a 3d fluids simulator. 
-• A mmo playable on browser.
-• Reverse engineering of mobile apps. 
-• Building a pentesting kit focused on mobile systems.
-• Telecom / LoRa hacking and development.
-• IoT design and development.
-• AI-based gaming assistants.
-• Custom game engines.
-• AI-Powered Systems.
-• IT Career Consulting.
-• English lessons for brazilians.
+- Make one linux distro for desktop and another for android.
+- An autonomous rocket (circuits, AI, programming).
+- An autonomous rally car.
+- An autonomous mini submarine that takes pictures.
+- Show with drones.
+- A 24h day trade Cryptocurrency bot.
+- A social score system using computer vision and deep learning.
+- A game for every retro videogame console / handheld ever made, from atari to ps2.
+- A 2d and a 3d fluids simulator.
+- A mmo playable on browser.
+- Reverse engineering of mobile apps.
+- Building a pentesting kit focused on mobile systems.
+- Telecom / LoRa hacking and development.
+- IoT design and development.
+- AI-based gaming assistants.
+- Custom game engines.
+- AI-Powered Systems.
+- IT Career Consulting.
+- English lessons for brazilians.
 
 Cheers!
 
