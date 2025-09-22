@@ -10,7 +10,9 @@ Parallel to that I also do freelance projects and research on topics such as:
 - Systems Programming (IoT, Windows Kernel, Infrastructure).
 - Game Dev (Unity, Retro, Procedural Generation, AI for Games).
 - Information Security (Pentesting, Reverse Engineering).
-- Web and Mobile Development. 
+- Web and Mobile Development.
+- Operations Culture (DevOps, DevSecOps, FinOps).
+
 
 I also like to learn new languages (now I'm a beginner at French, Spanish and Italian).
 
