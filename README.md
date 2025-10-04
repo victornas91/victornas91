@@ -12,6 +12,9 @@ Parallel to that I also do freelance projects and research on topics such as:
 - Information Security (Pentesting, Reverse Engineering).
 - Web and Mobile Development.
 - Operations Culture (DevOps, DevSecOps, FinOps).
+- Mechanical Engineering (Automotive, Cooling, Additive Manufacture, Propulsion).
+- Electrical Engineering (Computer Engineering, Renewable Energy, Electric Motors, Embedded Systems for AI).
+
 
 
 I also like to learn new languages (now I'm a beginner at French, Spanish and Italian).
