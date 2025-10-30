@@ -3,18 +3,18 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
-15+ years working with IT, mainly support, infrastructure and as a ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, now an IT Manager and Cloud Admin that oversees operations related to more than 3000 people.
+15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, now an IT Manager and Cloud Admin that oversees operations related to more than 3000 people.
 
 Parallel to that I also do freelance projects and research on topics such as: 
-- Machine Learning (Data Analysis for IoT, Data Science with 3D models and Machine Vision).
-- Systems Programming (IoT, Windows Kernel, Infrastructure).
-- Game Dev (Unity, Retro, Procedural Generation, AI for Games).
-- Information Security (Pentesting, Reverse Engineering).
-- Web and Mobile Development.
-- Operations Culture (DevOps, DevSecOps, FinOps).
-- Mechanical Engineering (Automotive, Cooling, Additive Manufacture, Propulsion).
-- Electrical Engineering (Computer Engineering, Renewable Energy, Electric Motors, Embedded Systems for AI).
 
+- AI for Games / 4.0 industry / Simulations / IoT.
+- Gamification.
+- Games, Mobile Apps / IoT Development.
+- Optics / Semiconductor Physics.
+- Pentesting and Information Gathering.
+- 3d Modeling. 
+- Mechanical Engineering (Automotive, Additive Manufacture, Propulsion).
+- Computer Science (Formal Languages, Compilers, Operating Systems).
 
 
 I also like to learn new languages (now I'm a beginner at French, Spanish and Italian).
@@ -23,8 +23,8 @@ Skills:
 
 - Python, C, C#, Typescript, Assembly x86 / ARM / 8051 / 6502
 - MySQL, MongoDB, PostgreSQL
-- AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix,
-- Pytorch, Tensorflow, Apache Spark
+- AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix
+- Pytorch, Tensorflow, Apache Spark, GNU, Octave
 - PIC, STM32, AVR, Yocto, ESP32, ARM
 - ASP.Net, MAUI, Django, Flask, FastAPI
 - Unity, OpenGL, SFML
