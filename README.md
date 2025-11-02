@@ -5,45 +5,36 @@
 ---
 15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, now an IT Manager and Cloud Admin that oversees operations related to more than 3000 people.
 
-Parallel to that I also do freelance projects and research on topics such as: 
+Parallel to that I also do freelance projects and research on topics on:
 
-- AI for Games / 4.0 industry / Simulations / IoT.
-- Gamification.
-- Games, Mobile Apps / IoT Development.
-- Optics / Semiconductor Physics.
-- Pentesting and Information Gathering.
-- 3d Modeling. 
-- Mechanical Engineering (Automotive, Additive Manufacture, Propulsion).
-- Computer Science (Formal Languages, Compilers, Operating Systems).
-
-
-I also like to learn new languages (now I'm a beginner at French, Spanish and Italian).
+- Machine Learning for 4.0 Industry, Games, Finance and Physics. 
+- Software Development for IoT and Mobile Apps (including Android Auto).
+- Consulting for Pentesting, Information Gathering and Surveillance.
 
 Skills: 
-
 - Python, C, C#, Typescript, Assembly x86 / ARM / 8051 / 6502
 - MySQL, MongoDB, PostgreSQL
-- AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix
-- Pytorch, Tensorflow, Apache Spark, GNU, Octave
-- PIC, STM32, AVR, Yocto, ESP32, ARM
-- ASP.Net, MAUI, Django, Flask, FastAPI
-- Unity, OpenGL, SFML
+- AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix,
+- Pytorch, Tensorflow, Apache Spark, GNU, Octave.
+- PIC, STM32, AVR, Yocto, ESP32, ARM.
+- ASP.Net, MAUI, Django, Flask, FastAPI.
+- Unity, OpenGL, SFML.
 
 Project goals for my Youtube channel (@victornas91):
 
-- Make one linux distro for desktop and another for android.
+- Make one linux distro for desktop and another for android. 
 - An autonomous rocket (circuits, AI, programming).
-- An autonomous rally car.
-- An autonomous mini submarine that takes pictures.
-- Show with drones.
-- A 24h day trade Cryptocurrency bot.
-- A social score system using computer vision and deep learning.
-- A game for every retro videogame console / handheld ever made, from atari to ps2.
-- A 2d and a 3d fluids simulator.
+- An autonomous rally car. 
+- An autonomous mini submarine that takes pictures. 
+- Show with drones. 
+- A 24h day trade Cryptocurrency bot. 
+- A social score system using computer vision and deep learning. 
+- A game for every retro videogame console / handheld ever made, from atari to ps2. 
+- A 2d and a 3d fluids simulator. 
 - A mmo playable on browser.
-- Reverse engineering of mobile apps.
+- Reverse engineering of mobile apps. 
 - Building a pentesting kit focused on mobile systems.
-- Telecom / LoRa hacking and development.
+- Telco / LoRa hacking and development.
 - IoT design and development.
 - AI-based gaming assistants.
 - Custom game engines.
