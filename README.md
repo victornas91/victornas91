@@ -8,7 +8,7 @@
 Parallel to that I also do freelance projects and research on topics on:
 
 - Machine Learning for 4.0 Industry, Games, Finance and Physics. 
-- Software Development for IoT and Mobile Apps (including Android Auto).
+- Software Development for 3d Websites, IoT and Mobile Apps (including Android Auto).
 - Consulting for Pentesting, Information Gathering and Surveillance.
 
 Skills: 
