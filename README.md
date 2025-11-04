@@ -3,13 +3,17 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
-15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, now an IT Manager and Cloud Admin that oversees operations related to more than 3000 people.
+15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, now an IT Manager and Cloud Admin that oversees operations related to more than 3000 people. 
 
-Parallel to that I also do freelance projects and research on topics on:
+Parallel to that I also do freelance projects and research for more than 5 years on topics such as:
 
-- Machine Learning for 4.0 Industry, Games, Finance and Physics. 
+- Machine Learning for 4.0 Industry (Industrial Automation, Machine Vision, Embedded AI), Games and  Finance. 
 - Software Development for 3d Websites, IoT and Mobile Apps (including Android Auto).
-- Consulting for Pentesting, Information Gathering and Surveillance.
+- Pentesting, Information Gathering and Surveillance.
+- Mechanical Engineering (Robotics, Additive Manufacture, CAD, Automotive).
+- Aeronautical Engineering (Jet Propulsion, Electronics for Aerospace, Telemetry, Flight Simulation).
+- Electrical Engineering (Electromechanics, Batteries, Renewable Energy).
+- Physics (Semiconductor Physics, Optics, Electromagnetism).
 
 Skills: 
 - Python, C, C#, Typescript, Assembly x86 / ARM / 8051 / 6502
