@@ -14,6 +14,7 @@ Parallel to that I also do freelance projects and research for more than 5 years
 - Aeronautical Engineering (Jet Propulsion, Electronics for Aerospace, Telemetry, Flight Simulation).
 - Electrical Engineering (Electromechanics, Batteries, Renewable Energy).
 - Physics (Semiconductor Physics, Optics, Electromagnetism).
+- Computer Science (Formal Languages, Operating Systems).
 
 Skills: 
 - Python, C, C#, Typescript, Assembly x86 / ARM / 8051 / 6502
