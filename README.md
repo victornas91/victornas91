@@ -3,27 +3,24 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
-15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, now an IT Manager and Cloud Admin that oversees operations related to more than 3000 people. 
+15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, then an IT Manager and Cloud Admin that oversees operations related to more than 3000 people. 
 
-Parallel to that I also do freelance projects and research for more than 5 years on topics such as:
+I'm also a generalist consultant and researcher on a wide range of topics, from Mechatronics to Aerospace and from Physics to Games Development for more than 5 years as of now. The full list of topics and contributions goes as follow: 
 
-- Machine Learning for 4.0 Industry (Industrial Automation, Machine Vision, Embedded AI), Games and  Finance. 
-- Software Development for 3d Websites, IoT and Mobile Apps (including Android Auto).
-- Pentesting, Information Gathering and Surveillance.
-- Mechanical Engineering (Robotics, Additive Manufacture, CAD, Automotive).
-- Aeronautical Engineering (Jet Propulsion, Electronics for Aerospace, Telemetry, Flight Simulation).
-- Electrical Engineering (Electromechanics, Batteries, Renewable Energy).
-- Physics (Semiconductor Physics, Optics, Electromagnetism).
-- Computer Science (Formal Languages, Operating Systems).
+- Machine Learning: Local LLM tuning / training; AI Agents development for Web Scraping and Social Network automation; Data Analysis for IoT and PLC devices; Machine Vision for Autonomous Vehicles and Robotics; AI training for Games; Algo Trading.
 
-Skills: 
-- Python, C, C#, Typescript, Assembly x86 / ARM / 8051 / 6502
-- MySQL, MongoDB, PostgreSQL
-- AWS, Azure, Microsoft 365, Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Zabbix,
-- Pytorch, Tensorflow, Apache Spark, GNU, Octave.
-- PIC, STM32, AVR, Yocto, ESP32, ARM.
-- ASP.Net, MAUI, Django, Flask, FastAPI.
-- Unity, OpenGL, SFML.
+- 3D Art: 3D Websites, Voxels and Low-Poly Modeling.
+
+- Software Development: Mobile Apps, including for Android Auto; PLC and IoT programming; 3D Games with Unity; Custom IT Infrastructure tools.
+
+- Cloud Admin: Microsoft 365, Azure DevOps automation and FinOps for Cloud for resources optimization and management.
+
+- Physics: Electromagnetism, Optics and Semiconductor Physics using IoT for demonstration or Unity for 3D visualization.
+
+- Information Security: Pentesting "on demand"; Intel Gathering.
+
+- Mechanical and Aerospace Engineering: Additive Manufacture tools design; Procedural Generation tools development for 3D modeling of devices parts; Computer Simulation tools development. 
+
 
 Project goals for my Youtube channel (@victornas91):
 
