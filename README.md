@@ -3,48 +3,38 @@
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
 ---
-15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a public servant that started as an Adm Agent, then an IT Manager and Cloud Admin that oversees operations related to more than 3000 people. 
-
-I'm also a generalist consultant and researcher on a wide range of topics, from Mechatronics to Aerospace and from Physics to Games Development for more than 5 years as of now. The full list of topics and contributions goes as follow: 
-
-- Machine Learning: Local LLM tuning / training; AI Agents development for Web Scraping and Social Network automation; Data Analysis for IoT and PLC devices; Machine Vision for Autonomous Vehicles and Robotics; AI training for Games; Algo Trading.
-
-- 3D Art: 3D Websites, Voxels and Low-Poly Modeling.
-
-- Software Development: Mobile Apps, including for Android Auto; PLC and IoT programming; 3D Games with Unity; Custom IT Infrastructure tools.
-
-- Cloud Admin: Microsoft 365, Azure DevOps automation and FinOps for Cloud for resources optimization and management.
-
-- Physics: Electromagnetism, Optics and Semiconductor Physics using IoT for demonstration or Unity for 3D visualization.
-
-- Information Security: Pentesting "on demand"; Intel Gathering.
-
-- Mechanical and Aerospace Engineering: Additive Manufacture tools design; Procedural Generation tools development for 3D modeling of devices parts; Computer Simulation tools development. 
 
 
-Project goals for my Youtube channel (@victornas91):
+15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a Public Sector Agent that started as an Adm Agent, now an IT Manager that oversees operations related to more than 3000 people.
 
-- Make one linux distro for desktop and another for android. 
-- An autonomous rocket (circuits, AI, programming).
-- An autonomous rally car. 
-- An autonomous mini submarine that takes pictures. 
-- Show with drones. 
-- A 24h day trade Cryptocurrency bot. 
-- A social score system using computer vision and deep learning. 
-- A game for every retro videogame console / handheld ever made, from atari to ps2. 
-- A 2d and a 3d fluids simulator. 
-- A mmo playable on browser.
-- Reverse engineering of mobile apps. 
-- Building a pentesting kit focused on mobile systems.
-- Telco / LoRa hacking and development.
-- IoT design and development.
-- AI-based gaming assistants.
-- Custom game engines.
-- AI-Powered Systems.
-- IT Career Consulting.
-- English lessons for brazilians.
+I'm also a generalist Software and Hardware Developer that uses Python, C#, ESP32, PLC and SQL as tools to architect systems that uses all of these technologies together, integrating projects with Cloud Computing (AWS and Azure) and Machine Learning and focused on fields such as Mechatronics, Aerospace, Big Data, Physics, Infosec, IT Infrastructure, Mobile / 3D Web Apps and Games.
+
+Some of the integrated projects I'm developing right now as hobby / services and am planning to showcase on my Youtube channel (@victornas91):
+
+- Local LLM tuning / training
+- AI Agents development for Web Scraping and Social Network automation
+- Data Analysis for IoT and PLC devices
+- Machine Vision for Autonomous Vehicles and Robotics
+- AI training for Games
+- Algo Trading
+- 3D Web Apps Development, Voxels and Low-Poly 3D Modeling and Sculpting
+- Mobile Apps, including for Android Auto
+- PLC and IoT programming
+- 3D Desktop and Mobile Games with Unity
+- Custom IT Infrastructure tools
+- AWS and Azure Cloud Engineering projects including CI / CD automation
+- FinOps for Cloud for resources optimization
+- Electromagnetism, Optics and Semiconductor Physics using IoT for demonstration or Unity for 3D visualization
+- Pentesting "on demand"; Intel Gathering; Reverse Engineering and Security of Mobile Apps
+- Additive Manufacture tools design
+- Procedural Generation tools development for 3D modeling of devices parts
+- Computer Simulation tools development
+- Custom Operating Systems Development
+- New Programming Languages, Interpreters and Compilers Development 
 
 Cheers!
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
@@ -62,8 +52,8 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### 🔭 Goals for 2022-2030
 - Finish all the degrees I'm currently pursuing.
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on Distributed Systems or Mathematics for ML or Gen AI), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Thermodynamics Simulations or Additive Manufacture), Aerospace Engineering (Electronics for Aerospace), Information Technology (AI for Games) and Electrical Engineering (Smart Robots).
-- Become an advanced programmer in C, C# and Python.
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on Formal Languages or Mathematics for ML), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Digital Twins for Industrial Automation, Thermodynamics Simulations or Additive Manufacture), Aerospace Engineering (Electronics for Aerospace or Propulsion), Information Technology (AI for Games) and Electrical Engineering (Smart Robots or Embedded AI).
+- Become an advanced programmer in C# and Python.
 - Get certifications for Cloud Computing and Information Security.
 - Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Sega :D  
 
