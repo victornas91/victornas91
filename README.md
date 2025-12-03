@@ -4,37 +4,38 @@
 
 ---
 
-
 15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a Public Sector Agent that started as an Adm Agent, now an IT Manager that oversees operations related to more than 3000 people.
 
 I'm also a generalist Software and Hardware Developer that uses Python, C#, ESP32, PLC and SQL as tools to architect systems that uses all of these technologies together, integrating projects with Cloud Computing (AWS and Azure) and Machine Learning and focused on fields such as Mechatronics, Aerospace, Big Data, Physics, Infosec, IT Infrastructure, Mobile / 3D Web Apps and Games.
 
-Some of the integrated projects I'm developing right now as hobby / services and am planning to showcase on my Youtube channel (@victornas91):
+Some of the services I offer:
 
-- Local LLM tuning / training
-- AI Agents development for Web Scraping and Social Network automation
-- Data Analysis for IoT and PLC devices
-- Machine Vision for Autonomous Vehicles and Robotics
-- AI training for Games
-- Algo Trading
-- 3D Web Apps Development, Voxels and Low-Poly 3D Modeling and Sculpting
-- Mobile Apps, including for Android Auto
-- PLC and IoT programming
-- 3D Desktop and Mobile Games with Unity
-- Custom IT Infrastructure tools
-- AWS and Azure Cloud Engineering projects including CI / CD automation
-- FinOps for Cloud for resources optimization
-- Electromagnetism, Optics and Semiconductor Physics using IoT for demonstration or Unity for 3D visualization
-- Pentesting "on demand"; Intel Gathering; Reverse Engineering and Security of Mobile Apps
-- Additive Manufacture tools design
-- Procedural Generation tools development for 3D modeling of devices parts
-- Computer Simulation tools development
-- Custom Operating Systems Development
-- New Programming Languages, Interpreters and Compilers Development 
+- Software Development for Games, Mobile / 3D Web Apps.
+- Intel Gathering, Web Scraping, Social Network Automation and Mobile Pentesting.
+- Cloud Engineering / FinOps consulting for AWS and Azure.
+
+And the topics that I'm focused on research:
+
+- Automotive Mechatronics.
+- Mechanical Fabrication and Digital Twins for 4.0 Industry. 
+- Embedded Systems for AI and Crypto.
+- Algo Trading.
+- Electromagnetism, Semiconductor Physics and Optics.
+- Machine Vision.
+- Programming Languages, Interpreters and Compilers.
+- AI for Games.
+
+Some of the integrated projects I'm developing right now as hobby for my Youtube channel (@victornas91):
+
+- Local LLM tuning / training / jailbreaking.
+- AI Agents development.
+- Data Analysis for IoT and PLC devices.
+- Custom IT Infrastructure tools.
+- Procedural Generation Tools development for 3D modeling of devices parts.
+- Computer Simulation Tools development.
+- Custom Operating Systems Development.
 
 Cheers!
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
