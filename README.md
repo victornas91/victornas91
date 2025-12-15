@@ -10,7 +10,7 @@ Some of the services I offer:
 
 - Software Development for Games, Mobile and 3D Web Apps.
 - Intel Gathering, Web Scraping, Social Network Automation and Mobile Pentesting.
-- FinOps consulting for AWS and Azure.
+- DevSecOps and FinOps consulting for AWS and Azure.
 
 The topics that I'm focused on researching:
 
@@ -30,8 +30,13 @@ Some of the integrated projects I'm developing right now as hobby for my Youtube
 - Data Analysis for IoT and PLC devices.
 - Custom IT Infrastructure tools.
 - Procedural Generation Tools for 3D modeling of devices parts.
-- Computer Simulation Tools development.
+- Computer Simulation Tools Development.
 - Custom Operating Systems Development.
+- Minimal Linux Kernel Development.
+- Linux Apps Development.
+
+
+Cheers!
   
 ---
 
