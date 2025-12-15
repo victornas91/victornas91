@@ -6,19 +6,17 @@
 
 15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a Public Sector Agent that started as an Adm Agent, now an IT Manager that oversees operations related to more than 3000 people.
 
-I'm also a generalist Software and Hardware Developer that uses Python, C#, ESP32, PLC and SQL as tools to architect systems that uses all of these technologies together, integrating projects with Cloud Computing (AWS and Azure) and Machine Learning and focused on fields such as Mechatronics, Aerospace, Big Data, Physics, Infosec, IT Infrastructure, Mobile / 3D Web Apps and Games.
-
 Some of the services I offer:
 
-- Software Development for Games, Mobile / 3D Web Apps.
+- Software Development for Games, Mobile and 3D Web Apps.
 - Intel Gathering, Web Scraping, Social Network Automation and Mobile Pentesting.
-- Cloud Engineering / FinOps consulting for AWS and Azure.
+- FinOps consulting for AWS and Azure.
 
-And the topics that I'm focused on research:
+The topics that I'm focused on researching:
 
 - Automotive Mechatronics.
 - Mechanical Fabrication and Digital Twins for 4.0 Industry. 
-- Embedded Systems for AI and Crypto.
+- Embedded Systems for AI, Aerospace, Telco and Crypto.
 - Algo Trading.
 - Electromagnetism, Semiconductor Physics and Optics.
 - Machine Vision.
@@ -31,11 +29,11 @@ Some of the integrated projects I'm developing right now as hobby for my Youtube
 - AI Agents development.
 - Data Analysis for IoT and PLC devices.
 - Custom IT Infrastructure tools.
-- Procedural Generation Tools development for 3D modeling of devices parts.
+- Procedural Generation Tools for 3D modeling of devices parts.
 - Computer Simulation Tools development.
 - Custom Operating Systems Development.
-
-Cheers!
+  
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victornas91)](https://github.com/ryo-ma/github-profile-trophy)
 [![Github Followers](https://img.shields.io/github/followers/victornas91?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/victornas91?tab=followers)
