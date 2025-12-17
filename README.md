@@ -4,24 +4,22 @@
 
 ---
 
-15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a Public Sector Agent that started as an Adm Agent, now an IT Manager that oversees operations related to more than 3000 people.
+15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a Public Sector Agent that started as an Adm Agent, now an IT Manager that oversees operations related to more than 3000 people. I'm also a Physics / Engineering Researcher, Software Developer and Machine Learning Engineer.
 
 Some of the services I offer:
 
-- Software Development for Games, Mobile and 3D Web Apps.
+- Software Development for Games and 3D Web Apps.
 - Intel Gathering, Web Scraping, Social Network Automation and Mobile Pentesting.
-- DevSecOps and FinOps consulting for AWS and Azure.
+- DevOps and FinOps consulting for AWS and Azure.
 
 The topics that I'm focused on researching:
 
-- Automotive Mechatronics.
+- Mechatronics / Embedded Systems / Android for Automotive and AI.
 - Mechanical Fabrication and Digital Twins for 4.0 Industry. 
-- Embedded Systems for AI, Aerospace, Telco and Crypto.
-- Algo Trading.
 - Electromagnetism, Semiconductor Physics and Optics.
-- Machine Vision.
-- Programming Languages, Interpreters and Compilers.
-- AI for Games.
+- Machine Learning for Games, Computer Vision and LLM.
+- Jet Propulsion, Thermodynamics Simulations and Fuels for Aerospace.
+- Procedural Generation for 3D Modeling. 
 
 Some of the integrated projects I'm developing right now as hobby for my Youtube channel (@victornas91):
 
