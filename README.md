@@ -4,35 +4,38 @@
 
 ---
 
-15+ years working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a Public Sector Agent that started as an Adm Agent, now an IT Manager that oversees operations related to more than 3000 people. I'm also a Physics / Engineering Researcher, Software Developer and Machine Learning Engineer.
+Greetings! I'm a Moebius Syndrome + Paralysis survivor with more than 15 years of working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a Public Sector Agent that started as an Adm Agent, now an IT Manager that oversees operations related to more than 3000 people.
 
-Some of the services I offer:
+Also I'm a Software Developer for the Games and Mobile Apps markets with almost 10 years of experience as of now. Recently I've begun to research and develop products and services for the 4.0 Industry, mainly Embedded AI, Telco, Automotive and IoT, including digital twins and additive manufacture applied to these areas. I've also developed some projects for the Infosec ecosystem including Linux Desktop Apps and Mobile Apps for OSINT. 
 
-- Software Development for Games and 3D Web Apps.
-- Intel Gathering, Web Scraping, Social Network Automation and Mobile Pentesting.
-- DevOps and FinOps consulting for AWS and Azure.
+As side projects I like to study the cosmos, computer motherboards and the physics behind it (optics and semiconductors respectively) and also the Aerospace ecosystem including Jet Propulsion, Electronics for CubeSats and Rocket Fuels.
 
-The topics that I'm focused on researching:
+Skiils:
 
-- Mechatronics / Embedded Systems / Android for Automotive and AI.
-- Mechanical Fabrication and Digital Twins for 4.0 Industry. 
-- Electromagnetism, Semiconductor Physics and Optics.
-- Machine Learning for Games, Computer Vision and LLM.
-- Jet Propulsion, Thermodynamics Simulations and Fuels for Aerospace.
-- Procedural Generation for 3D Modeling. 
+- Python, C, C#, SQL.
+- ESP32, Assembly ARM / 6502 / 8051.
+- Office 365, Azure, AWS, Apache Kafka, Apache Spark, Apache Cloudstack, OpenStack. 
+- DotNet, Django, Flask, FastAPI, WebGL.
+- PostgreSQL, MySQL, MongoDB.
+- Unity, Blender, SFML.
+- Tensorflow, Pytorch.
 
-Some of the integrated projects I'm developing right now as hobby for my Youtube channel (@victornas91):
+Some of the integrated projects I'm developing right now as hobby for my Youtube channel in brazilian portuguese (@victornas91):
 
 - Local LLM tuning / training / jailbreaking.
 - AI Agents development.
 - Data Analysis for IoT and PLC devices.
-- Custom IT Infrastructure tools.
+- Custom IT Infrastructure tools development.
 - Procedural Generation Tools for 3D modeling of devices parts.
 - Computer Simulation Tools Development.
-- Custom Operating Systems Development.
-- Minimal Linux Kernel Development.
-- Linux Apps Development.
+- Minimal Linux Kernel and Apps Development.
+- Physics simulations for Optics, Semiconductors and Aerospace using 3d software.
+- Autonomous vehicles (rally car, submarine and drone).
+- Smart wearables using IoT.
+- Infosec insights and projects like web and mobile pentesting / reverse engineering. 
 
+
+If you have a project or product idea that is not listed above fret not! Because I don't care about stacks or technologies, only about delivering quality, best practices and being a team player to the best of my abilities!
 
 Cheers!
   
