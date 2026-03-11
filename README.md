@@ -4,39 +4,13 @@
 
 ---
 
-Greetings! I'm a Moebius Syndrome + Paralysis survivor with more than 15 years of working with IT, mainly support, infrastructure and as an ESL for brazilians. Now also 5+ years as a Public Sector Agent that started as an Adm Agent, now an IT Manager that oversees operations related to more than 3000 people.
+Greetings! I'm a Moebius Syndrome + Paralysis survivor with more than 15 years of working with IT / Infrastructure and almost 10 years as a Software / Hardware Developer that worked with a multitude of different projects for the most varied niches and areas like Finance, 4.0 Industry, Games and Mobile. Also 5+ years as a Data Science Consultant (Machine Learning, RPA, Agents), Infosec Researcher (Mobile and Cloud Pentesting) and as a Public Sector Agent that oversees IT operations and infrastructure that supports more than 3000 people, all of that with a team of 5 people!
 
-Also I'm a Software Developer for the Games and Mobile Apps markets with almost 10 years of experience as of now. Recently I've begun to research and develop products and services for the 4.0 Industry, mainly Embedded AI, Telco, Automotive and IoT, including digital twins and additive manufacture applied to these areas. I've also developed some projects for the Infosec ecosystem including Linux Desktop Apps and Mobile Apps for OSINT. 
-
-As side projects I like to study the cosmos, computer motherboards and the physics behind it (optics and semiconductors respectively) and also the Aerospace ecosystem including Jet Propulsion, Electronics for CubeSats and Rocket Fuels.
+After a life running from the desire of becoming a Physicist and an Mechanical Engineer focused on Automotive and Aerospace I've decided to pursuit these path too, so now I'm adding Semiconductor Physics, Optics, Aerospace Engineering and Automotive Mechatronics to my ever-growing tech belt!
 
 Skiils:
 
-- Python, C, C#, SQL.
-- ESP32, Assembly ARM / 6502 / 8051.
-- Office 365, Azure, AWS, Apache Kafka, Apache Spark, Apache Cloudstack, OpenStack. 
-- DotNet, Django, Flask, FastAPI, WebGL.
-- PostgreSQL, MySQL, MongoDB.
-- Unity, Blender, SFML.
-- Tensorflow, Pytorch.
-
-Some of the integrated projects I'm developing right now as hobby for my Youtube channel in brazilian portuguese (@victornas91):
-
-- Local LLM tuning / training / jailbreaking.
-- AI Agents development.
-- Data Analysis for IoT and PLC devices.
-- Custom IT Infrastructure tools development.
-- Procedural Generation Tools for 3D modeling of devices parts.
-- Computer Simulation Tools Development.
-- Minimal Linux Kernel and Apps Development.
-- Physics simulations for Optics, Semiconductors and Aerospace using 3d software.
-- Autonomous vehicles (rally car, submarine and drone).
-- Smart wearables using IoT.
-- Infosec insights and projects like web and mobile pentesting / reverse engineering. 
-
-
-If you have a project or product idea that is not listed above fret not! Because I don't care about stacks or technologies, only about delivering quality, best practices and being a team player to the best of my abilities!
-
+- Python, C++, C#, Typescript, ESP32, Assembly ARM / 6502 / 8051, Office 365, Azure, AWS, Apache Kafka, Apache Spark, Apache Cloudstack, OpenStack, MAUI, Django, Flask, FastAPI, WebGL, Babylon.js, Three.js, PostgreSQL, MySQL, MongoDB, Unity, Blender, SFML, Tensorflow, Pytorch.
 Cheers!
   
 ---
@@ -55,7 +29,7 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 
 ### 🔭 Goals for 2022-2030
 - Finish all the degrees I'm currently pursuing.
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on Formal Languages or Mathematics for ML), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Digital Twins for Industrial Automation, Thermodynamics Simulations or Additive Manufacture), Aerospace Engineering (Electronics for Aerospace or Propulsion), Information Technology (AI for Games) and Electrical Engineering (Smart Robots or Embedded AI).
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on Formal Languages or Machine Learning), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Digital Twins for Industrial Automation, Thermodynamics Simulations or Additive Manufacture), Aerospace Engineering (Electronics for Aerospace or Propulsion), Information Technology (AI for Games) and Electrical Engineering (Smart Robots or Embedded AI).
 - Become an advanced programmer in C# and Python.
 - Get certifications for Cloud Computing and Information Security.
 - Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Sega :D  
@@ -63,7 +37,7 @@ src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgre
 ---
 
 ### ⚡ Fun fact
-- I'm a Moebius Syndrome "survivor"
-- In love with automation of all sorts of things: machines, games, industry, home and boring office stuff!  
+- In love with automation of all sorts of things: machines, games, industry, home and boring office stuff!
+- Trying to be the best polymath of the neighbourhood!
 
 ---
