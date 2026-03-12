@@ -1,4 +1,4 @@
-### My Games Showcase :video_game:
+### Simple Projects Showcase :video_game:
 
 <img alt="Elf" width="200px" src=img/elftale1.gif/>
 
