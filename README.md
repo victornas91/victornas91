@@ -7,7 +7,7 @@
 
 Greetings! I'm a Moebius Syndrome + Paralysis survivor with more than 15 years of working with IT / Infrastructure and almost 10 years as a Software / Hardware Developer that worked with a multitude of different projects for the most varied niches and areas like Finance, 4.0 Industry, Games and Mobile. Also 5+ years as a Data Science Consultant (Machine Learning, RPA, Agents), Infosec Researcher (Mobile and Cloud Pentesting) and as a Public Sector Agent that oversees IT operations and infrastructure that supports more than 3000 people, all of that with a team of 5 people!
 
-After a life running from the desire of becoming a Physicist and an Mechanical Engineer focused on Automotive and Aerospace I've decided to pursuit these path too, so now I'm adding Semiconductor Physics, Optics, Aerospace Engineering and Automotive Mechatronics to my ever-growing tech belt!
+After a life running from the desire of becoming a Physicist and a Mechanical Engineer focused on Automotive and Aerospace I've decided to pursuit these path too, so now I'm adding Semiconductor Physics, Optics, Aerospace Engineering and Automotive Mechatronics to my ever-growing tech belt!
 
 Skiils:
 
