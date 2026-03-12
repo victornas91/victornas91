@@ -1,6 +1,7 @@
 ### Simple Projects Showcase :video_game:
 
-<img alt="Elf" width="200px" src=img/elftale1.gif/>
+<img alt="Elf" width="150px" src=img/elftale1.gif/>  | <img alt="fsm" width="150px" src=img/fsm_patrol.gif/>
+<img alt="b-tree" width="150px" src=img/arvore-decisao-sfml.gif/> | <img alt="dashboard" width="150px" src=img/dashboard-sfml.gif/>
 
 ---
 
