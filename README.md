@@ -10,7 +10,7 @@ After a life running from the desire of becoming a Physicist and an Mechanical E
 
 Skiils:
 
-- Python, C++, C#, Typescript, ESP32, Assembly ARM / 6502 / 8051, Office 365, Azure, AWS, Apache Kafka, Apache Spark, Apache Cloudstack, OpenStack, MAUI, Django, Flask, FastAPI, WebGL, Babylon.js, Three.js, PostgreSQL, MySQL, MongoDB, Unity, Blender, SFML, Tensorflow, Pytorch.
+- Python, C++, C#, Typescript, Kotlin, ESP32, Assembly ARM / 6502 / 8051, Office 365, Azure, AWS, Apache Kafka, Apache Spark, Apache Cloudstack, OpenStack, MAUI, Django, Flask, FastAPI, WebGL, Babylon.js, Three.js, PostgreSQL, MySQL, MongoDB, Unity, Blender, SFML, Tensorflow, Pytorch.
 Cheers!
   
 ---
