@@ -5,13 +5,29 @@
 
 ---
 
-Greetings! I'm a Moebius Syndrome + Paralysis survivor with more than 15 years of working with IT / Infrastructure and almost 10 years as a Software / Hardware Developer that worked in a multitude of different projects for the most varied niches and areas like Finance, 4.0 Industry, Games and Mobile. Also 5+ years as a Data Science Consultant (Machine Learning, RPA, Agents), Infosec Researcher (Mobile and Cloud Pentesting) and as a Public Sector Agent that oversees IT operations and infrastructure that supports more than 3000 people, all of that with a team of 5 people!
+Greetings! I'm a Moebius Syndrome + Paralysis survivor with more than 15 years of working with IT / Infrastructure and almost 10 years as a Software / Hardware Developer that worked on a multitude of different projects for the most varied niches and areas like Finance, 4.0 Industry, Games and Mobile. Also 5+ years as a Data Science Consultant (Machine Learning, RPA, Agents), Infosec Researcher (Mobile and Cloud Pentesting) and as a Public Sector Agent that oversees IT operations and infrastructure that supports more than 3000 people, all of that with a team of 5 people!
 
-After a life running from the desire of becoming a Physicist and a Mechanical Engineer focused on Automotive and Aerospace I've decided to pursuit these path too, so now I'm adding Semiconductor Physics, Optics, Aerospace Engineering and Automotive Mechatronics to my ever-growing tech belt!
+After a life running from the desire of becoming a Physicist and a Mechanical Engineer focused on Automotive and Aerospace I've decided to pursuit these paths too, so now I'm adding Semiconductor Physics, Optics, Electromagnetism, Aerospace Engineering and Automotive Mechatronics to my ever-growing tech belt!
 
 Skiils:
 
 - Python, C++, C#, Typescript, Kotlin, ESP32, Assembly ARM / 6502 / 8051, Office 365, Azure, AWS, Apache Kafka, Apache Spark, Apache Cloudstack, OpenStack, MAUI, Django, Flask, FastAPI, WebGL, Babylon.js, Three.js, PostgreSQL, MySQL, MongoDB, Unity, Blender, SFML, Tensorflow, Pytorch.
+
+Some of the integrated projects I'm developing right now as hobby for my Youtube channel in brazilian portuguese (@victornas91):
+
+- Local LLM tuning / training / jailbreaking.
+- AI Agents development.
+- Data Analysis for IoT and PLC devices.
+- IT Infrastructure tools development.
+- Procedural Generation of 3D Models.
+- Linux Kernel and Apps Development.
+- Physics simulations for Optics, Semiconductors and Aerospace.
+- Autonomous vehicles (rally car, submarine and drone).
+- Smart wearables using IoT.
+- Infosec insights and projects like web and mobile pentesting / reverse engineering. 
+
+If you have a project or product idea that is not listed above fret not! Because I don't care about stacks or technologies, only about delivering quality products, following best practices and being a team player to the best of my abilities!
+
 Cheers!
   
 ---
