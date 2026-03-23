@@ -1,10 +1,3 @@
-### Simple Projects Showcase :video_game:
-
-<img alt="Elf" width="150px" src=img/elftale1.gif/>  | <img alt="fsm" width="150px" src=img/fsm_patrol.gif/>
-<img alt="b-tree" width="150px" src=img/arvore-decisao-sfml.gif/> | <img alt="dashboard" width="150px" src=img/dashboard-sfml.gif/>
-
----
-
 Greetings! I'm a Moebius Syndrome + Paralysis survivor with more than 15 years of working with IT / Infrastructure and almost 10 years as a Software / Hardware Developer that worked on a multitude of different projects for the most varied niches and areas like Finance, 4.0 Industry, Games and Mobile. Also 5+ years as a Data Science Consultant (Machine Learning, RPA, Agents), Infosec Researcher (Mobile and Cloud Pentesting) and as a Public Sector Agent that oversees IT operations and infrastructure that supports more than 3000 people, all of that with a team of 5 people!
 
 After a life running from the desire of becoming a Physicist and a Mechanical Engineer focused on Automotive and Aerospace I've decided to pursuit these paths too, so now I'm adding Semiconductor Physics, Optics, Electromagnetism, Aerospace Engineering and Automotive Mechatronics to my ever-growing tech belt!
@@ -38,10 +31,21 @@ Cheers!
 
 ### 🧰 Technologies used
 
-<img src="https://github.com/victornas91/devicon/blob/master/icons/android/android-plain.svg" alt="Android logo" width="50" height="50" /> <img src="https://github.com/victornas91/devicon/blob/master/icons/c/c-plain.svg" alt="C logo" width="50" height="50" /> <img 
-src="https://github.com/victornas91/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img 
-src="https://github.com/victornas91/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgresql logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" alt="Dotnetcore logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/arduino/arduino-plain.svg" alt="Arduino logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity logo" width="50" height="50" /><img src="https://github.com/victornas91/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix logo" width="50" height="50" />
+<h3 align="center">/ languages /</h3> <!-- Python, Java, Bash, HTML, MD -->
+  <p align="center">
+    <img width="500px" height="50px" src="https://skills.syvixor.com/api/icons?perline=10&i=python,typescript,bash,csharp,c,kotlin" title="Languages: Python, Typescript, Bash, C#, C, Kotlin "/>
+  </p>
 
+  <h3 align="center">/ software /</h3> <!-- Linux, Arch, VSCode, Git, Discord-->
+  <p align="center">
+    <img width="500px" height="50px" src="https://skills.syvixor.com/api/icons?perline=10&i=linux,ubuntu,unity,vscode,git" title="Software: Linux, Ubuntu, Unity, VSCode, Git"/>
+  </p>
+
+  <h3 align="center">/ homelab /</h3> <!-- Proxmox, Docker, -->
+  <p align="center">
+    <img width="500px" height="50px" src="https://skills.syvixor.com/api/icons?perline=10&i=proxmox,docker,nginx,plex" title="Homelab: Proxmox, Docker, Nginx Proxy Manager, Plex"/>
+  </p>
+  
 ---
 
 ### 🔭 Goals for 2022-2030
