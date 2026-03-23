@@ -2,10 +2,6 @@ Greetings! I'm a Moebius Syndrome + Paralysis survivor with more than 15 years o
 
 After a life running from the desire of becoming a Physicist and a Mechanical Engineer focused on Automotive and Aerospace I've decided to pursuit these paths too, so now I'm adding Semiconductor Physics, Optics, Electromagnetism, Aerospace Engineering and Automotive Mechatronics to my ever-growing tech belt!
 
-Skiils:
-
-- Python, C++, C#, Typescript, Kotlin, ESP32, Assembly ARM / 6502 / 8051, Office 365, Azure, AWS, Apache Kafka, Apache Spark, Apache Cloudstack, OpenStack, MAUI, Django, Flask, FastAPI, WebGL, Babylon.js, Three.js, PostgreSQL, MySQL, MongoDB, Unity, Blender, SFML, Tensorflow, Pytorch.
-
 Some of the integrated projects I'm developing right now as hobby for my Youtube channel in brazilian portuguese (@victornas91):
 
 - Local LLM tuning / training / jailbreaking.
@@ -33,12 +29,12 @@ Cheers!
 
 <h3 align="center">/ languages /</h3> <!-- Python, Java, Bash, HTML, MD -->
   <p align="center">
-    <img width="500px" height="50px" src="https://skills.syvixor.com/api/icons?perline=10&i=python,typescript,bash,csharp,c,kotlin" title="Languages: Python, Typescript, Bash, C#, C, Kotlin "/>
+    <img width="500px" height="50px" src="https://skills.syvixor.com/api/icons?perline=10&i=python,typescript,bash,csharp,c,kotlin,assembly" title="Languages: Python, Typescript, Bash, C#, C, Kotlin "/>
   </p>
 
   <h3 align="center">/ software /</h3> <!-- Linux, Arch, VSCode, Git, Discord-->
   <p align="center">
-    <img width="500px" height="50px" src="https://skills.syvixor.com/api/icons?perline=10&i=linux,ubuntu,unity,vscode,git" title="Software: Linux, Ubuntu, Unity, VSCode, Git"/>
+    <img width="500px" height="50px" src="https://skills.syvixor.com/api/icons?perline=10&i=threejs,dotnet,django,android,ubuntu,unity,vscode,git,azure,aws" title="Software: Three.js, DotNet, Django, Flask, Android, Linux, Ubuntu, Unity, VSCode, Git, Azure, AWS"/>
   </p>
 
   <h3 align="center">/ homelab /</h3> <!-- Proxmox, Docker, -->
