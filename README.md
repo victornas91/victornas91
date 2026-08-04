@@ -1,21 +1,7 @@
-Greetings! I'm a Moebius Syndrome + Paralysis survivor with 15+ years of working with IT as a Specialist focused on Software + Hardware Development (Games, Mobile Apps, Fullstack 3D WebApps, API, IoT), Consultant (AI + Cloud Integration, Infosec) and as Field Engineer. Also 5+ years as a Permanent Public Sector Agent that oversees IT operations and infrastructure that supports more than 3000 people, all of that with a team of 5 people!
+Greetings! I'm a Moebius Syndrome + Paralysis survivor with 15+ years of working with IT: 15+ of these as an IT Field Engineer (Support and Network Infrastructure). 10+ as a Freelancer Software Engineer (IoT, Games, Mobile Apps and Fullstack 3d Web Apps), 2+ as an IT Manager and 5+ as a Consultant (MobileSec, CloudSec, FinOps, MLOps, Machine Learning). But despite all that I'm also specializing in Systems Programming for Kernels, mainly Windows and it's DLLs.
 
-After a lifetime of running from the desire of becoming a Physicist and a Mechanical Engineer focused on Electronics, Automotive and Aerospace I've decided to pursuit these paths too, so now I'm adding Mechanical Fabrication, Embedded AI, Semiconductor Physics, Optics, Electromagnetism, Aerospace Engineering and Automotive Mechatronics to my ever-growing tech belt!
-
-Some of the integrated projects I'm developing right now as hobby for my Youtube channel in brazilian portuguese (@victornas91):
-
-- Local LLM tuning / training / jailbreaking.
-- AI Agents development.
-- Data Analysis for IoT and PLC devices.
-- IT Infrastructure tools development.
-- Procedural Generation of 3D Models.
-- Linux Kernel and Apps Development.
-- Physics simulations for Optics, Semiconductors and Aerospace.
-- Autonomous vehicles (rally car, submarine and drone).
-- Smart wearables using IoT.
-- Infosec insights and projects like web and mobile pentesting / reverse engineering. 
-
-If you have a project or product idea that is not listed above fret not! Because I don't care about stacks or technologies, only about delivering quality products, following best practices and being a team player to the best of my abilities!
+Now I'm also pursuing a career in Physics (Aerospace, Semiconductors) and in Automotive
+Engineering (Machine Vision for Smart Vehicles, Automotive Mechatronics and Android for Auto).  
 
 Cheers!
   
