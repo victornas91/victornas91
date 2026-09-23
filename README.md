@@ -1,7 +1,16 @@
-Greetings! I'm a Moebius Syndrome + Paralysis survivor with 15+ years of working with IT: 15+ of these as an IT Field Engineer (Support and Network Infrastructure). 10+ as a Freelancer Software Engineer (IoT, Games, Mobile Apps and Fullstack 3d Web Apps), 2+ as an IT Manager and 5+ as a Consultant (MobileSec, CloudSec, FinOps, MLOps, Machine Learning). But despite all that I'm also specializing in Systems Programming for Kernels, mainly Windows and it's DLLs.
+Greetings! I'm a Moebius Syndrome + Paralysis survivor trying to be a modern polymath, being an independent learner and IT Consultant for 15+ years on the following roles:
 
-Now I'm also pursuing a career in Physics (Aerospace, Semiconductors) and in Automotive
-Engineering (Machine Vision for Smart Vehicles, Automotive Mechatronics and Android for Auto).  
+- IT Field Engineer (Support and Network Infrastructure).
+
+- Software Engineer (IoT, Games, Mobile Apps and Fullstack 3d Web Apps, Windows DLL).
+
+- Infosec Consultant (MobileSec, CloudSec, Windows).
+
+- IT Manager, leading a team that delivers IT Support and Systems Development to more than 3000 people on the healthcare sector.
+
+Now I'm also pursuing a formal career as a Physicist focused on Aerospace and Semiconductors, as a Machine Learning Engineer (AI for Games, Computer Vision and MLOps) and as a Mechanical Engineer (Automotive Mechatronics + IoT for Auto, Embedded AI + Mechanical Fabrication, Android Automotive OS and Digital Twins). 
+
+Also I'm improving my low-level programming skills in case a good Kernel / Firmware security job appear.
 
 Cheers!
   
