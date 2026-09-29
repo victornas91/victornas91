@@ -1,16 +1,24 @@
-Greetings! I'm a Moebius Syndrome + Paralysis survivor trying to be a modern polymath, being an independent learner and IT Consultant for 15+ years on the following roles:
+I combine 15+ years of IT work with deep technical expertise to build the future of intelligent systems. Thriving beyond Moebius Syndrome and paralysis daily, I have built a career defined by resilience, rapid adaptation, and solving high-stakes technical challenges. 
 
-- IT Field Engineer (Support and Network Infrastructure).
+My journey spans the entire technology spectrum, from managing enterprise infrastructure for 3,000+ users in the healthcare sector to developing low-level firmware and high-performance 3D / IoT applications for small clients. Currently, I am expanding my formal footprint into the following cutting-edge domains: 
 
-- Software Engineer (IoT, Games, Mobile Apps and Fullstack 3d Web Apps, Windows DLL).
+- Machine Learning Engineering focusing on AI for Games, Computer Vision, and scalable MLOps pipeline deployment.
 
-- Infosec Consultant (MobileSec, CloudSec, Windows).
+- Mechanical Engineering specializing in Automotive Mechatronics, Embedded AI (Edge computing), Android Automotive OS (AAOS), and Digital Twins. 
 
-- IT Manager, leading a team that delivers IT Support and Systems Development to more than 3000 people on the healthcare sector.
+Core Technical Arsenal:
 
-Now I'm also pursuing a formal career as a Physicist focused on Aerospace and Semiconductors, as a Machine Learning Engineer (AI for Games, Computer Vision and MLOps) and as a Mechanical Engineer (Automotive Mechatronics + IoT for Auto, Embedded AI + Mechanical Fabrication, Android Automotive OS and Digital Twins). 
+- Languages: C++, Python, C#, TypeScript, Kotlin, Assembly, WebAssembly.
 
-Also I'm improving my low-level programming skills in case a good Kernel / Firmware security job appear.
+- AI / Vision: TensorFlow, PyTorch, OpenCV, MLOps.
+
+- Hardware / Embedded: STM32, ESP32, Firmware Security, IoT.
+
+- 3D / Graphics: WebGL, Three.js, Babylon.js, Unity, Blender, SFML, Raylib.
+
+- Cloud / Infrastructure: AWS, Azure, OpenStack, Network Infra.
+
+Whether it is securing the kernel, training a computer vision model, or designing the digital twin of an automotive system, I bridge the gap between hardware, software, and data. 
 
 Cheers!
   
