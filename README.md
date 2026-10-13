@@ -1,26 +1,18 @@
-I combine 15+ years of IT work with deep technical expertise to build the future of intelligent systems. Thriving beyond Moebius Syndrome and paralysis daily, I have built a career defined by resilience, rapid adaptation, and solving high-stakes technical challenges. 
+I combine 15+ years of IT expertise with deep technical range to build intelligent systems that deliver measurable business results. Thriving beyond Moebius Syndrome and paralysis daily, I've built a career defined by resilience, rapid adaptation, and solving high-stakes technical challenges, always with an eye on real impact:
 
-My journey spans the entire technology spectrum, from managing enterprise infrastructure for 3,000+ users in the healthcare sector to developing low-level firmware and high-performance 3D / IoT applications for small clients. Currently, I am expanding my formal footprint into the following cutting-edge domains: 
+My experience goes from being an IT Field Engineer since my humble beginning in tech, to a Software Developer that's been building Desktop and 3D Web apps using C# + Blazor + WebAssembly / Mobile Apps using Kotlin for more than 10 years. From almost 10 years ago until now I've been also studying and developing systems that are automated using RPA or more recently AI (Agents Orchestration), and are Cloud-based / integrated. By working with Cloud Engineering I took a liking to FinOps best practices / tools and did some freelance work but so far could not find formal work on this. Parallel to all of that I've developed some IoT gadgets and did some industrial IoT automation which led me to focus on Digital Twins + Board Support Package + Edge AI as of late. 
 
-- Machine Learning Engineering focusing on AI for Games, Computer Vision, and scalable MLOps pipeline deployment.
+Currently expanding into three formal tracks, but not limited to:
 
-- Mechanical Engineering specializing in Automotive Mechatronics, Embedded AI (Edge computing), Android Automotive OS (AAOS), and Digital Twins. 
+AI & Cloud Security Engineer - Scalable MLOps pipeline deployment, AI Agents Orchestration in the Cloud, Cloud FinOps, Cloud Security.
 
-Core Technical Arsenal:
+Computer & Mechanical Engineering Research - Embedded AI (Edge Computing), Board Support Package, Automotive Mechatronics, Android Automotive OS, Computer Vision for Vehicles and Digital Twins.
 
-- Languages: C++, Python, C#, TypeScript, Kotlin, Assembly, WebAssembly.
+Game Dev - 3D Games + Animations with Unity, AI for Games, Computer Graphics.
 
-- AI / Vision: TensorFlow, PyTorch, OpenCV, MLOps.
+If you have a project or job offer that is not aligned with my overall experience, fret not! Because I'm sure we can find a common ground! 
 
-- Hardware / Embedded: STM32, ESP32, Firmware Security, IoT.
-
-- 3D / Graphics: WebGL, Three.js, Babylon.js, Unity, Blender, SFML, Raylib.
-
-- Cloud / Infrastructure: AWS, Azure, OpenStack, Network Infra.
-
-Whether it is securing the kernel, training a computer vision model, or designing the digital twin of an automotive system, I bridge the gap between hardware, software, and data. 
-
-Cheers!
+Let's connect!
   
 ---
 
