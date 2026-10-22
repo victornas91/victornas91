@@ -1,3 +1,54 @@
+<h3 align="center">/ featured projects & demos /</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="16.66%" valign="middle">
+      <a href="img/arvore-decisao-sfml.gif">
+        <img src="img/arvore-decisao-sfml.gif" width="100%" height="90" alt="Decision Tree SFML" />
+      </a>
+      <br />
+      <sub><b>Decision Tree</b></sub>
+    </td>
+    <td align="center" width="16.66%" valign="middle">
+      <a href="img/dashboard-sfml.gif">
+        <img src="img/dashboard-sfml.gif" width="100%" height="90" alt="Dashboard SFML" />
+      </a>
+      <br />
+      <sub><b>Dashboard SFML</b></sub>
+    </td>
+    <td align="center" width="16.66%" valign="middle">
+      <a href="img/ds-c-game-quizz-raylib.webp">
+        <img src="img/ds-c-game-quizz-raylib.webp" width="100%" height="90" alt="C Quiz Raylib" />
+      </a>
+      <br />
+      <sub><b>C Quiz Raylib</b></sub>
+    </td>
+    <td align="center" width="16.66%" valign="middle">
+      <a href="img/elftale1.gif">
+        <img src="img/elftale1.gif" width="100%" height="90" alt="Elfic Tale" />
+      </a>
+      <br />
+      <sub><b>Elfic Tale</b></sub>
+    </td>
+    <td align="center" width="16.66%" valign="middle">
+      <a href="img/fsm_patrol.gif">
+        <img src="img/fsm_patrol.gif" width="100%" height="90" alt="FSM AI Patrol" />
+      </a>
+      <br />
+      <sub><b>FSM AI Patrol</b></sub>
+    </td>
+    <td align="center" width="16.66%" valign="middle">
+      <a href="img/simu-rover-3d-1.webp">
+        <img src="img/simu-rover-3d-1.webp" width="100%" height="90" alt="3D Rover Sim" />
+      </a>
+      <br />
+      <sub><b>3D Rover Sim</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 I combine 15+ years of IT expertise with deep technical range to build intelligent systems that deliver measurable business results. Thriving beyond Moebius Syndrome and paralysis daily, I've built a career defined by resilience, rapid adaptation, and solving high-stakes technical challenges, always with an eye on real impact:
 
 My experience goes from being an IT Field Engineer since my humble beginning in tech, to a Software Developer that's been building Desktop and 3D Web apps using C# + Blazor + WebAssembly / Mobile Apps using Kotlin for more than 10 years. From almost 10 years ago until now I've been also studying and developing systems that are automated using RPA or more recently AI (Agents Orchestration), and are Cloud-based / integrated. By working with Cloud Engineering I took a liking to FinOps best practices / tools and did some freelance work but so far could not find formal work on this. Parallel to all of that I've developed some IoT gadgets and did some industrial IoT automation which led me to focus on Digital Twins + Board Support Package + Edge AI as of late. 
