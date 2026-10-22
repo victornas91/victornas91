@@ -1,4 +1,4 @@
-<h3 align="center">/ featured projects & demos /</h3>
+<h3 align="center"> Featured Projects & Demos </h3>
 
 <table align="center" width="100%">
   <tr>
@@ -51,15 +51,13 @@
 
 I combine 15+ years of IT expertise with deep technical range to build intelligent systems that deliver measurable business results. Thriving beyond Moebius Syndrome and paralysis daily, I've built a career defined by resilience, rapid adaptation, and solving high-stakes technical challenges, always with an eye on real impact:
 
-My experience goes from being an IT Field Engineer since my humble beginning in tech, to a Software Developer that's been building Desktop and 3D Web apps using C# + Blazor + WebAssembly / Mobile Apps using Kotlin for more than 10 years. From almost 10 years ago until now I've been also studying and developing systems that are automated using RPA or more recently AI (Agents Orchestration), and are Cloud-based / integrated. By working with Cloud Engineering I took a liking to FinOps best practices / tools and did some freelance work but so far could not find formal work on this. Parallel to all of that I've developed some IoT gadgets and did some industrial IoT automation which led me to focus on Digital Twins + Board Support Package + Edge AI as of late. 
-
 Currently expanding into three formal tracks, but not limited to:
 
-AI & Cloud Security Engineer - Scalable MLOps pipeline deployment, AI Agents Orchestration in the Cloud, Cloud FinOps, Cloud Security.
+- AI & Cloud Security Engineer - Scalable MLOps pipeline deployment, AI Agents Orchestration in the Cloud, Cloud FinOps, Cloud Security.
 
-Computer & Mechanical Engineering Research - Embedded AI (Edge Computing), Board Support Package, Automotive Mechatronics, Android Automotive OS, Computer Vision for Vehicles and Digital Twins.
+- Computer & Mechanical Engineering Research - Embedded AI (Edge Computing), Board Support Package, Automotive Mechatronics, Android Automotive OS, Computer Vision for Vehicles and Digital Twins.
 
-Game Dev - 3D Games + Animations with Unity, AI for Games, Computer Graphics.
+- Game Dev - 3D Games + Animations with Unity, AI for Games, Computer Graphics.
 
 If you have a project or job offer that is not aligned with my overall experience, fret not! Because I'm sure we can find a common ground! 
 
@@ -91,9 +89,9 @@ Let's connect!
 ---
 
 ### 🔭 Goals for 2022-2030
-- Finish all the degrees I'm currently pursuing.
-- Begin a Masters Degree and then a PhD in Computer Science (focusing on Formal Languages or Machine Learning), Mechatronics Engineering (Embedded Systems), Mechanical Engineering (Digital Twins for Industrial Automation, Thermodynamics Simulations or Additive Manufacture), Aerospace Engineering (Electronics for Aerospace or Propulsion), Information Technology (AI for Games) and Electrical Engineering (Smart Robots or Embedded AI).
-- Become an advanced programmer in C# and Python.
+- Finish all the degrees I'm currently pursuing (Games Development and Automotive Mechatronics Engineering).
+- Begin a Masters Degree and then a PhD in Computer Science (focusing on Formal Languages or Machine Learning), Mechatronics Engineering (Embedded Systems for Automotive), Mechanical Engineering (Digital Twins, or Additive Manufacture), Aerospace Engineering (Electronics for Aerospace or Propulsion), Information Technology (AI for Games) and Electrical Engineering (Embedded AI).
+- Become an advanced programmer in C, C# and Python.
 - Get certifications for Cloud Computing and Information Security.
 - Get a job at: Apple, Canonical, Red Hat, NASA, Lockheed, Google, Tesla, Sega :D  
 
